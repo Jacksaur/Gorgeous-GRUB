@@ -5,7 +5,7 @@
 |![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|
 |[**Virtuaverse (Alt Backgrounds in lower comment)**](https://www.reddit.com/r/unixporn/comments/m5522z/grub2_had_some_fun_with_grub/gqy61xm/)|[**YoRHa**](https://github.com/OliveThePuffin/yorha-grub-theme)|[**CRT-Amber**](https://www.pling.com/p/1727268/)|
 |![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|
-|[**Matter (Customizable)**](https://www.pling.com/p/1400298/)|[**DedSec**](https://www.pling.com/p/1569525/)|[Sekiro](https://github.com/semimqmo/sekiro_grub_theme)|
+|[**Matter (Customizable)**](https://www.pling.com/p/1400298/)|[**DedSec**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
 |![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|
 |[**BigSur**](https://www.pling.com/p/1443844/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**Graphite**](https://www.pling.com/p/1676418/)|
 |![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|
