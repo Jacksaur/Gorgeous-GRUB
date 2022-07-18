@@ -1,3 +1,6 @@
+https://github.com/VandalByte/grub-tweaks
+https://kinolien.github.io/gitzip/
+
 |    |    |    |
 |:-------:|:-------:|:---------:|
 |![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|
@@ -26,3 +29,5 @@
 |[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
 |![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeholderr.png)|
 |[**Monochrome Dark**](https://www.pling.com/p/1111868/)|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Monochrome Light**](https://www.pling.com/p/1111486/)|
+|![placeholder](/Images/Placeholderr.png)|![placeholder](/Images/Placeolderr.png)|![placeholder](/Images/Placeholderr.png)|
+|[**GutsBlack ArchLinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|-|-|
