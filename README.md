@@ -20,7 +20,7 @@ https://kinolien.github.io/gitzip/
 |<img src="/Images/Plasma-Dark.png" width="400">|<img src="/Images/Deadora.png" width="400">|<img src="/Images/Plasma-Light.png" width="400">|
 |[**Plasma-Dark**](https://www.pling.com/p/1195799/)|[**Deadora**](https://www.pling.com/p/1111550/)|[**Plasma-Light**](https://www.pling.com/p/1197062/)|
 |<img src="/Images/Placeholder.png" width="400">|<img src="/Images/Atomic.png" width="400">|<img src="/Images/Aero.png" width="400">|
-|[**Sleek (Set)**](https://www.pling.com/p/1414997/)|[**Atomic**](https://www.pling.com/p/1200710/)|[**Aero**](https://www.pling.com/p/1112066/)|
+|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Atomic**](https://www.pling.com/p/1200710/)|[**Aero**](https://www.pling.com/p/1112066/)|
 |<img src="/Images/Standby.png" width="400">|<img src="/Images/Axiom.jpg" width="400">|<img src="/Images/Solarized-Dark.png" width="400">|
 |[**Standby**](https://www.pling.com/p/1172610/)|[**Axiom**](https://www.pling.com/p/1111735/)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
 |<img src="/Images/Retro_GRUB.png" width="400">|<img src="/Images/CyberXero.png" width="400">|<img src="/Images/Placeholder.png" width="400">|
