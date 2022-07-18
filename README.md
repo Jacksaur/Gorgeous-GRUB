@@ -5,9 +5,9 @@ https://kinolien.github.io/gitzip/
 |:-------:|:-------:|:---------:|
 |<img src="/Images/Linux_Mind.png" width="400">|<img src="/Images/Descent.jpg" width="400">|<img src="/Images/SteamOS.png" width="400">|
 |[**Linux Mind**](https://www.pling.com/p/1397139/)|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
-|<img src="/Images/Placeholder.png" width="400">|<img src="/Images/Placeholder.png" width="400">|<img src="/Images/Placeholder.png" width="400">|
+|<img src="/Images/Virtuaverse.png" width="400">|<img src="/Images/Yorha.png" width="400">|<img src="/Images/CRT-Amber.png" width="400">|
 |[**Virtuaverse**](https://github.com/Patato777/dotfiles/tree/main/grub)|[**YoRHa**](https://github.com/OliveThePuffin/yorha-grub-theme)|[**CRT-Amber**](https://www.pling.com/p/1727268/)|
-|<img src="/Images/Placeholder.png" width="400">|<img src="/Images/Placeholder.png" width="400">|<img src="/Images/Placeholder.png" width="400">|
+|<img src="/Images/Matter.gif" width="400">|<img src="/Images/Dedsec.gif" width="400">|<img src="/Images/Sekiro.png" width="400">|
 |[**Matter (Customizable)**](https://www.pling.com/p/1400298/)|[**DedSec**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
 |<img src="/Images/Placeholder.png" width="400">|<img src="/Images/Placeholder.png" width="400">|<img src="/Images/Placeholder.png" width="400">|
 |[**BigSur**](https://www.pling.com/p/1443844/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**Graphite**](https://www.pling.com/p/1676418/)|
