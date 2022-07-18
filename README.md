@@ -24,7 +24,7 @@ https://kinolien.github.io/gitzip/
 |<img src="/Images/Standby.png" width="400">|<img src="/Images/Axiom.jpg" width="400">|<img src="/Images/Solarized-Dark.png" width="400">|
 |[**Standby**](https://www.pling.com/p/1172610/)|[**Axiom**](https://www.pling.com/p/1111735/)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
 |<img src="/Images/Retro_GRUB.png" width="400">|<img src="/Images/CyberXero.png" width="400">|<img src="/Images/Distro.gif" width="400">|
-|[**Retro GRUB**](https://www.pling.com/p/1568741/)|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Distro Themes (set)**](https://www.pling.com/p/1482847/)|
+|[**Retro GRUB**](https://www.pling.com/p/1568741/)|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Distro Themes (Set)**](https://www.pling.com/p/1482847/)|
 |<img src="/Images/Poly-Light.png" width="400">|<img src="/Images/Solstice.jpg" width="400">|<img src="/Images/Poly-Dark.png" width="400">|
 |[**Poly Light**](https://www.pling.com/p/1176413/)|[**Solstice**](https://www.pling.com/p/1111874/)|[**Poly Dark**](https://www.pling.com/p/1230780/)|
 |<img src="/Images/Dark_Matter.gif" width="400">|<img src="/Images/Virtual_Future.png" width="400">|<img src="/Images/Grubby_Terminal.jpg" width="400">|
