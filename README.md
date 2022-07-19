@@ -24,8 +24,8 @@ Contributions are
 |[**BigSur**](https://www.pling.com/p/1443844/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**Graphite**](https://www.pling.com/p/1676418/)|
 |<img src="/Images/Cyberpunk2077.png" width="400">|<img src="/Images/CyberRe.png" width="400">|<img src="/Images/Cyberpunk.png" width="400">|
 |[**Cyberpunk 2077**](https://www.pling.com/p/1515662/)|[**CyberRe**](https://www.pling.com/p/1420727/)|[**Cyberpunk**](https://www.pling.com/p/1429443/)|
-|<img src="/Images/GutsBlack-ArchLinux.png" width="400">|<img src="/Images/Placeholder.png" width="400">|<img src="/Images/Breeze.png" width="400">|
-|[**GutsBlack ArchLinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|[**Sayonara**](https://github.com/samoht9277/dotfiles/tree/master/grub/themes/self)|[**Breeze**](https://www.pling.com/p/1000111/)|
+|<img src="/Images/GutsBlack-ArchLinux.png" width="400">|<img src="/Images/Sayonara.png" width="400">|<img src="/Images/Breeze.png" width="400">|
+|[**GutsBlack ArchLinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|[**Sayonara**](https://github.com/samoht9277/dotfiles/tree/master/grub/themes/sayonara)|[**Breeze**](https://www.pling.com/p/1000111/)|
 |<img src="/Images/Plasma-Dark.png" width="400">|<img src="/Images/Deadora.png" width="400">|<img src="/Images/Plasma-Light.png" width="400">|
 |[**Plasma-Dark**](https://www.pling.com/p/1195799/)|[**Deadora**](https://www.pling.com/p/1111550/)|[**Plasma-Light**](https://www.pling.com/p/1197062/)|
 |<img src="/Images/Sleek.gif" width="400">|<img src="/Images/Atomic.png" width="400">|<img src="/Images/Aero.png" width="400">|
