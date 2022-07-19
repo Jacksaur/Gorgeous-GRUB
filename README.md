@@ -1,7 +1,16 @@
-🚧 WORK IN PROGRESS 🚧
+# Intro
 
-https://github.com/VandalByte/grub-tweaks
-https://kinolien.github.io/gitzip/
+# Installation
+
+
+#Useful Links
+
+[GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Multiple guides on various tweaks and additions you can make to further customize, or repair, your GRUB install.
+[https://kinolien.github.io/gitzip/] - Download individual folders and files from Github repositories without having to download the entire repo. Asks for a Token, but seems to work without just fine.
+
+#Contributing
+
+Contributions are 
 
 |    |    |    |
 |:-------:|:-------:|:---------:|
@@ -29,5 +38,5 @@ https://kinolien.github.io/gitzip/
 |[**Poly Light**](https://www.pling.com/p/1176413/)|[**Solstice**](https://www.pling.com/p/1111874/)|[**Poly Dark**](https://www.pling.com/p/1230780/)|
 |<img src="/Images/Dark_Matter.gif" width="400">|<img src="/Images/Virtual_Future.png" width="400">|<img src="/Images/Grubby_Terminal.jpg" width="400">|
 |[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
-|<img src="/Images/Billys_Agent.png" width="400">|<img src="/Images/Placeholder.png" width="400">|<img src="/Images/Placeholder.png" width="400">|
-|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|-|-|
+|<img src="/Images/Billys_Agent.png" width="400">|<img src="/Images/Arcade.png" width="400">|<img src="/Images/Placeholder.png" width="400">|
+|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|-|
