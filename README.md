@@ -1,3 +1,5 @@
+# 🚧 WORK IN PROGRESS 🚧
+
 # Intro
 
 # Installation
@@ -5,7 +7,7 @@
 # Useful Links
 
 [GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Multiple guides on various tweaks and additions you can make to further customize, or repair, your GRUB install.
-[https://kinolien.github.io/gitzip/] - Download individual folders and files from Github repositories without having to download the entire repo. Asks for a Token, but seems to work without just fine.
+[Gitzip](https://kinolien.github.io/gitzip/) - Download individual folders and files from Github repositories without having to download the entire repo. Asks for a Token, but seems to work without just fine.
 
 # Contributing
 
