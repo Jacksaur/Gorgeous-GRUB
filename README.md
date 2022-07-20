@@ -2,6 +2,7 @@
 There are many great community made GRUB themes to spice up your bootloader before booting into your system proper. Unfortunately, they're spread across multiple sites and it can be difficult to find good ones. As another user told me, the majority of themes on Pling (the largest host of GRUB themes currently) are fairly low effort and can be boring to trawl through. Hence, I decided to put together this page to bring attention to some decent themes I've found around the internet over time. They aren't all absolute masterpieces of course: But they've all at least had a fair amount of effort put into them, with custom backgrounds, fonts, and colours.
 
 And don't forget, themes are extremely easy to customize. Like a theme's layout but prefer a different background? Just replace the image in its folder with one of your own. Don't like the positioning of a theme's elements? Open the theme.txt and change their values. Want a different colour scheme? They're all set by HEX Values, which you can swap out in seconds. You can even convert almost any font to the type GRUB uses with the grub-mkfont command, then change the `item_font` line in the theme.txt to use it.  
+
 Heck, you may even make enough changes to justify releasing your own separate theme entirely! Documentation on theming GRUB is pretty lacking, so there's no better way to learn than taking someone else's theme and examining how they set things out the way they did. 
 
 # 👍 [Contributing](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Contributing.md)
