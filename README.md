@@ -3,8 +3,6 @@ There are many great community made GRUB themes to spice up your bootloader befo
 
 And don't forget, themes are extremely easy to customize. Like a theme's layout but prefer a different background? Just replace the image in its folder with one of your own. Don't like the positioning of a theme's elements? Open the theme.txt and change their values. Want a different colour scheme? They're all set by HEX Values, which you can swap out in seconds. You can even convert almost any font to the type GRUB uses with the grub-mkfont command, then change the `item_font` line in the theme.txt to use it.  
 
-Heck, you may even make enough changes to justify releasing your own separate theme entirely! Documentation on theming GRUB is pretty lacking, so there's no better way to learn than taking someone else's theme and examining how they set things out the way they did. 
-
 # 🌟 Useful Links
 
 [GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Multiple guides on various tweaks and additions you can make to further customize, or repair, your GRUB install.  
@@ -20,12 +18,12 @@ Heck, you may even make enough changes to justify releasing your own separate th
 
 |    |    |    |
 |:-------:|:-------:|:---------:|
-|<img src="/Images/Linux_Mind.png" width="400">|<img src="/Images/Descent.jpg" width="400">|<img src="/Images/SteamOS.png" width="400">|
-|[**Linux Mind**](https://www.pling.com/p/1397139/)|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
+|<img src="/Images/Arcade.png" width="400">|<img src="/Images/Descent.jpg" width="400">|<img src="/Images/SteamOS.png" width="400">|
+|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
 |<img src="/Images/Virtuaverse.png" width="400">|<img src="/Images/Yorha.png" width="400">|<img src="/Images/CRT-Amber.png" width="400">|
 |[**Virtuaverse**](https://github.com/Patato777/dotfiles/tree/main/grub)|[**YoRHa**](https://github.com/OliveThePuffin/yorha-grub-theme)|[**CRT-Amber**](https://www.pling.com/p/1727268/)|
-|<img src="/Images/Matter.gif" width="400">|<img src="/Images/Dedsec.gif" width="400">|<img src="/Images/Sekiro.png" width="400">|
-|[**Matter (Customizable)**](https://www.pling.com/p/1400298/)|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
+|<img src="/Images/Linux_Mind.png" width="400">|<img src="/Images/Dedsec.gif" width="400">|<img src="/Images/Sekiro.png" width="400">|
+|[**Linux Mind**](https://www.pling.com/p/1397139/)|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
 |<img src="/Images/BigSur.png" width="400">|<img src="/Images/Fallout.png" width="400">|<img src="/Images/Graphite.png" width="400">|
 |[**BigSur**](https://www.pling.com/p/1443844/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**Graphite**](https://www.pling.com/p/1676418/)|
 |<img src="/Images/Cyberpunk2077.png" width="400">|<img src="/Images/CyberRe.png" width="400">|<img src="/Images/Cyberpunk.png" width="400">|
@@ -44,5 +42,5 @@ Heck, you may even make enough changes to justify releasing your own separate th
 |[**Poly Light**](https://www.pling.com/p/1176413/)|[**Solstice**](https://www.pling.com/p/1111874/)|[**Poly Dark**](https://www.pling.com/p/1230780/)|
 |<img src="/Images/Dark_Matter.gif" width="400">|<img src="/Images/Virtual_Future.png" width="400">|<img src="/Images/Grubby_Terminal.jpg" width="400">|
 |[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
-|<img src="/Images/Billys_Agent.png" width="400">|<img src="/Images/Arcade.png" width="400">|<img src="/Images/Placeholder.png" width="400">|
-|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|-|
+|<img src="/Images/Billys_Agent.png" width="400">|<img src="/Images/Matter.gif" width="400">|<img src="/Images/Placeholder.png" width="400">|
+|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://www.pling.com/p/1400298/)|-|
