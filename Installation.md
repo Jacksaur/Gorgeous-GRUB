@@ -8,3 +8,5 @@ Once you have the theme files, it's just a simple matter of dropping them into a
 
 Once the theme is in place, you just need to set GRUB to use it. Navigate to **/etc/default** and edit the **grub** file in there. You'll require Root permissions for this, you can use the sudoedit command to easily open it in your terminal. It's not a difficult edit either way, you won't need to use the terminal editor for long. Find the `GRUB_THEME=` line and add the path to the theme.txt of the theme you want to use. Don't forget to change the `#GRUB_GFXMODE=` line to your desired resolution, removing the `#` to enable it.  
 Finally, run the command `sudo update-grub` to finalize your changes. You need to run this command every time you make changes to a config file. (If you're on Fedora, the command is `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` instead)
+
+Upon restart, you should find your new theme will be used for your bootloader!
