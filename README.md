@@ -4,31 +4,16 @@ There are many great community made GRUB themes to spice up your bootloader befo
 And don't forget, themes are extremely easy to customize. Like a theme's layout but prefer a different background? Just replace the image in its folder with one of your own. Don't like the positioning of a theme's elements? Open the theme.txt and change their values. Want a different colour scheme? They're all set by HEX Values, which you can swap out in seconds. You can even convert almost any font to the type GRUB uses with the grub-mkfont command, then change the `item_font` line in the theme.txt to use it.  
 Heck, you may even make enough changes to justify releasing your own separate theme entirely! Documentation on theming GRUB is pretty lacking, so there's no better way to learn than taking someone else's theme and examining how they set things out the way they did. 
 
-# 🛠️ Installation
-GRUB themes are all installed the same way. Some themes may provide an install script, feel free to use it if you want, it should just take the same actions described here. Some theme pages recommend using GRUB Customizer, I do not. It changes your GRUB config files and can make it difficult to apply tweaks or changes.
+# 👍 [Contributing](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Contributing.md)
 
-Click the title of the Theme you want to install and you should be taken to its page: Either on Pling or Github. Pling will have a Files tab right below the preview screenshot, Github should have a green CODE button you can click to clone the repo. Some themes are stored in folders of a larger repo, if you copy the URL and paste it into Gitzip (Linked further down) you can download just those files, rather than cloning the entire repo.
-
-Once you have the theme files, it's just a simple matter of dropping them into a folder in **/boot/grub/themes**. You may need to change the owner of this folder to interact with it, using the command `sudo chown $USER /boot/grub/themes`. You should now have a folder in the themes directory named after the theme, and that folder should include the theme.txt and any other relevant files that theme came with.  
-
-Once the theme is in place, you just need to set GRUB to use it. Navigate to **/etc/default** and edit the **grub** file in there. You'll require Root permissions for this, you can use the sudoedit command to easily open it in your terminal. It's not a difficult edit either way, you won't need to use the terminal editor for long. Find the `GRUB_THEME=` line and add the path to the theme.txt of the theme you want to use. Don't forget to change the `#GRUB_GFXMODE=` line to your desired resolution, removing the `#` to enable it.  
-Finally, run the command `sudo update-grub` to finalize your changes. You need to run this command every time you make changes to a config file. (If you're on Fedora, the command is `sudo grub2-mkconfig -o /boot/grub2/grub.cfg` instead)
-
-Upon restart, you should find your new theme will be used for your bootloader!
+# 🛠️ [Installation](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Installation.md)
 
 # 🌟 Useful Links
 
 [GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Multiple guides on various tweaks and additions you can make to further customize, or repair, your GRUB install.  
 [Gitzip](https://kinolien.github.io/gitzip/) - Download individual folders and files from Github repositories without having to download the entire repo. Asks for a Token, but seems to work without just fine.
 
-# 👍 Contributing
-Contributions are very welcome, either of themes you've created yourself or just ones you've discovered online. Just open a Pull Request adding it to the Table with a preview image. If you're not sure how, just open an Issue with the link and preview image included, and I'll add it myself when I get the chance. That said, there are five rules on what will be accepted:
 
-* **The majority of elements must be changed from default:** Themes that consist of the default GRUB menu with just a background thrown in will not be accepted. In the least please try to include a custom background, menu selector and flavor text.
-* **Forks of existing themes must be recognizably different from their original:** I recommended altering elements of existing themes earlier, but if you wish to share an edited theme here, please ensure you've changed enough of it to stand out against the original. This page was created to make it easier to find unique themes, and that falls apart if every theme is a vague alteration to an existing one. Compare my CRT-Amber theme to the Fallout theme that it's forked from, for instance.
-* **Theme must not be too similar to ones already on the page:** Similar to above, but even for completely custom themes. Though if your theme is significantly higher quality than the one it's similar to, it may be possible to replace the former.
-* **No Waifu themes**: Anime related themes are fine, but please, no themes revolving entirely around generic renders of an anime character. Pling has hundreds of these in every category, not just GRUB. They only appeal to audiences who have seen their particular show, in an already niche audience of people trying to customize their GRUB. Again, Anime is fine, this is just a rule against themes that consist of a few fancy colours and a single image of an anime character.
-* **SFW only**: You'd think this is obvious, but you'd be surprised.
 
 # 🎨 Themes
 
