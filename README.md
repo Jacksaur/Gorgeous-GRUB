@@ -5,16 +5,14 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 
 Heck, you may even make enough changes to justify releasing your own separate theme entirely! Documentation on theming GRUB is pretty lacking, so there's no better way to learn than taking someone else's theme and examining how they set things out the way they did. 
 
-# 👍 [Contributing](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Contributing.md)
-
-# 🛠️ [Installation](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Installation.md)
-
 # 🌟 Useful Links
 
 [GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Multiple guides on various tweaks and additions you can make to further customize, or repair, your GRUB install.  
 [Gitzip](https://kinolien.github.io/gitzip/) - Download individual folders and files from Github repositories without having to download the entire repo. Asks for a Token, but seems to work without just fine.
 
+# 🛠️ [Installing a theme](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Installation.md)
 
+# 👍 [How to contribute](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Contributing.md)
 
 # 🎨 Themes
 
