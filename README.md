@@ -18,29 +18,29 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 
 |    |    |    |
 |:-------:|:-------:|:---------:|
-|<img src="/Images/Arcade.png" width="256">|<img src="/Images/Descent.jpg" width="256">|<img src="/Images/SteamOS.png" width="256">|
+|<img src="/Images/Arcade.png" width="250">|<img src="/Images/Descent.jpg" width="250">|<img src="/Images/SteamOS.png" width="250">|
 |[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
-|<img src="/Images/Virtuaverse.png" width="256">|<img src="/Images/Yorha.png" width="256">|<img src="/Images/CRT-Amber.png" width="256">|
+|<img src="/Images/Virtuaverse.png" width="250">|<img src="/Images/Yorha.png" width="250">|<img src="/Images/CRT-Amber.png" width="250">|
 |[**Virtuaverse**](https://github.com/Patato777/dotfiles/tree/main/grub)|[**YoRHa**](https://github.com/OliveThePuffin/yorha-grub-theme)|[**CRT-Amber**](https://www.pling.com/p/1727268/)|
-|<img src="/Images/Linux_Mind.png" width="256">|<img src="/Images/Dedsec.gif" width="256">|<img src="/Images/Sekiro.png" width="256">|
+|<img src="/Images/Linux_Mind.png" width="250">|<img src="/Images/Dedsec.gif" width="250">|<img src="/Images/Sekiro.png" width="250">|
 |[**Linux Mind**](https://www.pling.com/p/1397139/)|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
-|<img src="/Images/BigSur.png" width="256">|<img src="/Images/Fallout.png" width="256">|<img src="/Images/Graphite.png" width="256">|
+|<img src="/Images/BigSur.png" width="250">|<img src="/Images/Fallout.png" width="250">|<img src="/Images/Graphite.png" width="250">|
 |[**BigSur**](https://www.pling.com/p/1443844/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**Graphite**](https://www.pling.com/p/1676418/)|
-|<img src="/Images/Cyberpunk2077.png" width="256">|<img src="/Images/CyberRe.png" width="256">|<img src="/Images/Cyberpunk.png" width="256">|
+|<img src="/Images/Cyberpunk2077.png" width="250">|<img src="/Images/CyberRe.png" width="250">|<img src="/Images/Cyberpunk.png" width="250">|
 |[**Cyberpunk 2077**](https://www.pling.com/p/1515662/)|[**CyberRe**](https://www.pling.com/p/1420727/)|[**Cyberpunk**](https://www.pling.com/p/1429443/)|
-|<img src="/Images/GutsBlack-ArchLinux.png" width="256">|<img src="/Images/Sayonara.png" width="256">|<img src="/Images/Breeze.png" width="256">|
+|<img src="/Images/GutsBlack-ArchLinux.png" width="250">|<img src="/Images/Sayonara.png" width="250">|<img src="/Images/Breeze.png" width="250">|
 |[**GutsBlack ArchLinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|[**Sayonara**](https://github.com/samoht9277/dotfiles/tree/master/grub/themes/sayonara)|[**Breeze**](https://www.pling.com/p/1000111/)|
-|<img src="/Images/Plasma-Dark.png" width="256">|<img src="/Images/Deadora.png" width="256">|<img src="/Images/Plasma-Light.png" width="256">|
+|<img src="/Images/Plasma-Dark.png" width="250">|<img src="/Images/Deadora.png" width="250">|<img src="/Images/Plasma-Light.png" width="250">|
 |[**Plasma-Dark**](https://www.pling.com/p/1195799/)|[**Deadora**](https://www.pling.com/p/1111550/)|[**Plasma-Light**](https://www.pling.com/p/1197062/)|
-|<img src="/Images/Sleek.gif" width="256">|<img src="/Images/Atomic.png" width="256">|<img src="/Images/Aero.png" width="256">|
+|<img src="/Images/Sleek.gif" width="250">|<img src="/Images/Atomic.png" width="250">|<img src="/Images/Aero.png" width="250">|
 |[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Atomic**](https://www.pling.com/p/1200710/)|[**Aero**](https://www.pling.com/p/1112066/)|
-|<img src="/Images/Standby.png" width="256">|<img src="/Images/Axiom.jpg" width="256">|<img src="/Images/Solarized-Dark.png" width="256">|
+|<img src="/Images/Standby.png" width="250">|<img src="/Images/Axiom.jpg" width="250">|<img src="/Images/Solarized-Dark.png" width="250">|
 |[**Standby**](https://www.pling.com/p/1172610/)|[**Axiom**](https://www.pling.com/p/1111735/)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
-|<img src="/Images/Retro_GRUB.png" width="256">|<img src="/Images/CyberXero.png" width="256">|<img src="/Images/Distro.gif" width="256">|
+|<img src="/Images/Retro_GRUB.png" width="250">|<img src="/Images/CyberXero.png" width="250">|<img src="/Images/Distro.gif" width="250">|
 |[**Retro GRUB**](https://www.pling.com/p/1568741/)|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Distro Themes (Set)**](https://www.pling.com/p/1482847/)|
-|<img src="/Images/Poly-Light.png" width="256">|<img src="/Images/Solstice.jpg" width="256">|<img src="/Images/Poly-Dark.png" width="256">|
+|<img src="/Images/Poly-Light.png" width="250">|<img src="/Images/Solstice.jpg" width="250">|<img src="/Images/Poly-Dark.png" width="250">|
 |[**Poly Light**](https://www.pling.com/p/1176413/)|[**Solstice**](https://www.pling.com/p/1111874/)|[**Poly Dark**](https://www.pling.com/p/1230780/)|
-|<img src="/Images/Dark_Matter.gif" width="256">|<img src="/Images/Virtual_Future.png" width="256">|<img src="/Images/Grubby_Terminal.jpg" width="256">|
+|<img src="/Images/Dark_Matter.gif" width="250">|<img src="/Images/Virtual_Future.png" width="250">|<img src="/Images/Grubby_Terminal.jpg" width="250">|
 |[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
-|<img src="/Images/Billys_Agent.png" width="256">|<img src="/Images/Matter.gif" width="256">|<img src="/Images/Placeholder.png" width="256">|
-|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://www.pling.com/p/1256298/)|-|
+|<img src="/Images/Billys_Agent.png" width="250">|<img src="/Images/Matter.gif" width="250">|<img src="/Images/Placeholder.png" width="250">|
+|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://www.pling.com/p/1250298/)|-|
