@@ -5,8 +5,10 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 
 # 🌟 Useful Links
 
+[GitZip](https://kinolien.github.io/gitzip/) - Download individual folders and files from Github repositories without having to download the entire repo. Asks for a Token, but seems to work without just fine.  
 [GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Multiple guides on various tweaks and additions you can make to further customize, or repair, your GRUB install.  
-[Gitzip](https://kinolien.github.io/gitzip/) - Download individual folders and files from Github repositories without having to download the entire repo. Asks for a Token, but seems to work without just fine.
+[Theme Tutorial](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial) and [Theme References](http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference) - Pretty complex, but the best set of information I've managed to find so far. It may be easier to start by taking an existing theme and making edits to it yourself, rather than diving straight in and starting from scratch.
+
 
 # 🛠️ [Installing a theme](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Installation.md)
 
@@ -42,5 +44,7 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 |[**Poly Light**](https://www.pling.com/p/1176413/)|[**Solstice**](https://www.pling.com/p/1111874/)|[**Poly Dark**](https://www.pling.com/p/1230780/)|
 |<img src="/Images/Dark_Matter.gif" width="247">|<img src="/Images/Virtual_Future.png" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
 |[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
-|<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Matter.gif" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://www.pling.com/p/1247298/)|-|
+|<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Matter.gif" width="247">|<img src="/Images/Modern.gif" width="247">|
+|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://www.pling.com/p/1247298/)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
+|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|-|-|-|
