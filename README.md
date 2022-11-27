@@ -39,7 +39,7 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 |[**Framework**](https://github.com/HeinrichZurHorstMeyer/Framework-Grub-Theme)|[**Sayonara**](https://github.com/samoht9277/dotfiles/tree/master/grub/themes/sayonara)|[**Breeze**](https://www.pling.com/p/1000111/)|
 |    |    |    |
 |<img src="/Images/Plasma-Dark.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|<img src="/Images/Plasma-Light.png" width="247">|
-|[**Plasma-Dark**](https://www.pling.com/p/1195799/)|[**Gutsblack Archlinux](https://forums.archlinux.fr/viewtopic.php?t=11361)|[**Plasma-Light**](https://www.pling.com/p/1197062/)|
+|[**Plasma-Dark**](https://www.pling.com/p/1195799/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|[**Plasma-Light**](https://www.pling.com/p/1197062/)|
 |    |    |    |
 |<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Aero.png" width="247">|
 |[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Atomic**](https://www.pling.com/p/1200710/)|[**Aero**](https://www.pling.com/p/1112066/)|
