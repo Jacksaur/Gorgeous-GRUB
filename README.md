@@ -20,8 +20,8 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 
 |    |    |    |
 |:-------:|:-------:|:---------:|
-|<img src="/Images/Arcade.png" width="247">|<img src="/Images/Descent.jpg" width="247">|<img src="/Images/SteamOS.png" width="247">|
-|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
+|<img src="/Images/Minegrub.png" width="247">|<img src="/Images/Descent.jpg" width="247">|<img src="/Images/SteamOS.png" width="247">|
+|[**Minegrub**](https://github.com/Lxtharia/minegrub-theme)|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
 |    |    |    |
 |<img src="/Images/Virtuaverse.png" width="247">|<img src="/Images/Yorha.png" width="247">|<img src="/Images/CRT-Amber.png" width="247">|
 |[**Virtuaverse**](https://github.com/Patato777/dotfiles/tree/main/grub)|[**YoRHa**](https://github.com/OliveThePuffin/yorha-grub-theme)|[**CRT-Amber**](https://www.pling.com/p/1727268/)|
@@ -38,8 +38,8 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 |<img src="/Images/Framework.png" width="247">|<img src="/Images/Sayonara.png" width="247">|<img src="/Images/LiteMint.png" width="247">|
 |[**Framework**](https://github.com/HeinrichZurHorstMeyer/Framework-Grub-Theme)|**[Sayonara](https://github.com/samoht9277/dotfiles/tree/master/grub/themes/sayonara) + [Improved Font](https://www.dropbox.com/s/il0dxjq5u65t0pt/Font.zip?dl=0)**|[**Neumorphic**](https://www.pling.com/p/1906415)|
 |    |    |    |
-|<img src="/Images/Plasma-Dark.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|<img src="/Images/Plasma-Light.png" width="247">|
-|[**Plasma-Dark**](https://www.pling.com/p/1195799/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|[**Plasma-Light**](https://www.pling.com/p/1197062/)|
+|<img src="/Images/Plasma-Dark.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/Plasma-Light.png" width="247">|
+|[**Plasma-Dark**](https://www.pling.com/p/1195799/)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**Plasma-Light**](https://www.pling.com/p/1197062/)|
 |    |    |    |
 |<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Aero.png" width="247">|
 |[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Atomic**](https://www.pling.com/p/1200710/)|[**Aero**](https://www.pling.com/p/1112066/)|
@@ -59,5 +59,7 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 |<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Matter.gif" width="247">|<img src="/Images/Modern.gif" width="247">|
 |[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://www.pling.com/p/1400298/)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
 |    |    |    |
-|<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**Deadora**](https://www.pling.com/p/1111550/)|[**Breeze**](https://www.pling.com/p/1000111/)|-|
+|<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
+|[**Deadora**](https://www.pling.com/p/1111550/)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
+|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|-|-|-|
