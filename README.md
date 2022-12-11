@@ -25,7 +25,7 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 |    |    |    |
 |:-------:|:-------:|:---------:|
 |<img src="/Images/Minegrub.png" width="247">|<img src="/Images/Descent.jpg" width="247">|<img src="/Images/SteamOS.png" width="247">|
-|[**Minegrub**](https://github.com/Lxtharia/minegrub-theme)|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
+|[**Minegrub (Text Cycles!)**](https://github.com/Lxtharia/minegrub-theme)|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
 |    |    |    |
 |<img src="/Images/Virtuaverse.png" width="247">|<img src="/Images/Yorha.png" width="247">|<img src="/Images/CRT-Amber.png" width="247">|
 |[**Virtuaverse**](https://github.com/Patato777/dotfiles/tree/main/grub)|[**YoRHa**](https://github.com/OliveThePuffin/yorha-grub-theme)|[**CRT-Amber**](https://www.pling.com/p/1727268/)|
