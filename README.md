@@ -45,8 +45,8 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 |<img src="/Images/Plasma-Dark.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/Plasma-Light.png" width="247">|
 |[**Plasma-Dark**](https://www.pling.com/p/1195799/)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**Plasma-Light**](https://www.pling.com/p/1197062/)|
 |    |    |    |
-|<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Aero.png" width="247">|
-|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Atomic**](https://www.pling.com/p/1200710/)|[**Aero**](https://www.pling.com/p/1112066/)|
+|<img src="/Images/CyberEXS.png" width="247">|<img src="/Images/DOOM.png" width="247">|<img src="/Images/Aero.png" width="247">|
+|[**CyberEXS**](https://www.pling.com/p/1968990)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|[**Aero**](https://www.pling.com/p/1112066/)|
 |    |    |    |
 |<img src="/Images/Standby.png" width="247">|<img src="/Images/Axiom.jpg" width="247">|<img src="/Images/Solarized-Dark.png" width="247">|
 |[**Standby**](https://www.pling.com/p/1172610/)|[**Axiom**](https://www.pling.com/p/1111735/)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
@@ -65,5 +65,5 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 |    |    |    |
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
 |[**Deadora**](https://www.pling.com/p/1111550/)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
-|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|-|-|-|
+|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|[**Atomic**](https://www.pling.com/p/1200710/)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|-|
