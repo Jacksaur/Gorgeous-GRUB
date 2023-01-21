@@ -42,11 +42,11 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 |<img src="/Images/Framework.png" width="247">|<img src="/Images/Sayonara.png" width="247">|<img src="/Images/LiteMint.png" width="247">|
 |[**Framework**](https://github.com/HeinrichZurHorstMeyer/Framework-Grub-Theme)|**[Sayonara](https://github.com/samoht9277/dotfiles/tree/master/grub/themes/sayonara) + [Improved Font](https://www.dropbox.com/s/il0dxjq5u65t0pt/Font.zip?dl=0)**|[**Neumorphic**](https://www.pling.com/p/1906415)|
 |    |    |    |
-|<img src="/Images/Plasma-Dark.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/Plasma-Light.png" width="247">|
-|[**Plasma-Dark**](https://www.pling.com/p/1195799/)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**Plasma-Light**](https://www.pling.com/p/1197062/)|
+|<img src="/Images/CyberEXS.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/DOOM.png" width="247">|
+|[**CyberEXS**](https://www.pling.com/p/1968990)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|
 |    |    |    |
-|<img src="/Images/CyberEXS.png" width="247">|<img src="/Images/DOOM.png" width="247">|<img src="/Images/Aero.png" width="247">|
-|[**CyberEXS**](https://www.pling.com/p/1968990)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|[**Aero**](https://www.pling.com/p/1112066/)|
+|<img src="/Images/Dark_Matter.gif" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Sleek.gif" width="247">|
+|[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Aero**](https://www.pling.com/p/1112066/)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|
 |    |    |    |
 |<img src="/Images/Standby.png" width="247">|<img src="/Images/Axiom.jpg" width="247">|<img src="/Images/Solarized-Dark.png" width="247">|
 |[**Standby**](https://www.pling.com/p/1172610/)|[**Axiom**](https://www.pling.com/p/1111735/)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
@@ -54,16 +54,16 @@ And don't forget, themes are extremely easy to customize. Like a theme's layout 
 |<img src="/Images/Retro_GRUB.png" width="247">|<img src="/Images/CyberXero.png" width="247">|<img src="/Images/Distro.gif" width="247">|
 |[**Retro GRUB**](https://www.pling.com/p/1568741/)|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Distro Themes (Set)**](https://www.pling.com/p/1482847/)|
 |    |    |    |
-|<img src="/Images/Poly-Light.png" width="247">|<img src="/Images/Solstice.jpg" width="247">|<img src="/Images/Poly-Dark.png" width="247">|
-|[**Poly Light**](https://www.pling.com/p/1176413/)|[**Solstice**](https://www.pling.com/p/1111874/)|[**Poly Dark**](https://www.pling.com/p/1230780/)|
+|<img src="/Images/Poly.gif" width="247">|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Plasma.gif" width="247">|
+|**Poly ([Light](https://www.pling.com/p/1176413/)/[Dark](https://www.pling.com/p/1230780/))**|[**Atomic**](https://www.pling.com/p/1200710/)|**Plasma ([Light](https://www.pling.com/p/1197062/)/[Dark](https://www.pling.com/p/1195799/))**|
 |    |    |    |
-|<img src="/Images/Dark_Matter.gif" width="247">|<img src="/Images/Virtual_Future.png" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
-|[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
+|<img src="/Images/Solstice.jpg" width="247">|<img src="/Images/Virtual_Future.png" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
+|[**Solstice**](https://www.pling.com/p/1111874/)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
 |    |    |    |
 |<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Matter.gif" width="247">|<img src="/Images/Modern.gif" width="247">|
 |[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://www.pling.com/p/1400298/)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
 |    |    |    |
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
 |[**Deadora**](https://www.pling.com/p/1111550/)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
-|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**Atomic**](https://www.pling.com/p/1200710/)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|-|
+|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|-|-|-|
