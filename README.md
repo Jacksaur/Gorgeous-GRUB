@@ -26,15 +26,15 @@ There's loads of potential for customization, you just have to work creatively a
 |    |    |    |
 |:-------:|:-------:|:---------:|
 |<img src="/Images/Minegrub.png" width="247">|<img src="/Images/Descent.jpg" width="247">|<img src="/Images/SteamOS.png" width="247">|
-|**[Minegrub (Text Cycles!)](https://github.com/Lxtharia/minegrub-theme [(Combined Version!)](https://github.com/Lxtharia/double-minegrub-menu)**|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
+|**[Minegrub (Text Cycles!)](https://github.com/Lxtharia/minegrub-theme) + [(Combined Version!)](https://github.com/Lxtharia/double-minegrub-menu)**|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
 |    |    |    |
 |<img src="/Images/Virtuaverse.png" width="247">|<img src="/Images/Yorha.png" width="247">|<img src="/Images/CRT-Amber.png" width="247">|
 |[**Virtuaverse**](https://github.com/Patato777/dotfiles/tree/main/grub)|[**YoRHa**](https://github.com/OliveThePuffin/yorha-grub-theme)|[**CRT-Amber**](https://www.pling.com/p/1727268/)|
 |    |    |    |
 |<img src="/Images/Minegrub-World.png" width="247">|<img src="/Images/Dedsec.gif" width="247">|<img src="/Images/Sekiro.png" width="247">|
-|**[Minegrub World](https://github.com/Lxtharia/minegrub-world-sel-theme) [(Combined Version!)](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
+|**[Minegrub World Select](https://github.com/Lxtharia/minegrub-world-sel-theme) + [(Combined Version!)](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
 |    |    |    |
-|<img src="/Images/HyperFluent.png" width="247">|<img src="/Images/Persona5.png" width="247">|<img src="" width="247">|
+|<img src="/Images/HyperFluent.png" width="247">|<img src="/Images/Persona5.gif" width="247">|<img src="/Images/Graphite.png" width="247">|
 |[**HyperFluent**](https://www.pling.com/p/1397139/)|[**Persona 5 Royal (Set)**](https://www.pling.com/p/2122684)|[**Graphite**](https://www.pling.com/p/1676418/)|
 |    |    |    |
 |<img src="/Images/Linux_Mind.png" width="247">|<img src="/Images/Fallout.png" width="247">|<img src="/Images/CyberEXS.png" width="247">|
