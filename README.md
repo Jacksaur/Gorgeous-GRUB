@@ -34,7 +34,7 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Minegrub-World.png" width="247">|<img src="/Images/Dedsec.gif" width="247">|<img src="/Images/Sekiro.png" width="247">|
 |**[Minegrub World Select](https://github.com/Lxtharia/minegrub-world-sel-theme) + [Combined Version!](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
 |    |    |    |
-|<img src="/Images/HyperFluent.png" width="247">|<img src="/Images/Persona5.gif" width="247">|<img src="/Images/Graphite.png" width="247">|
+|<img src="/Images/HyperFluent.gif" width="247">|<img src="/Images/Persona5.gif" width="247">|<img src="/Images/Graphite.png" width="247">|
 |[**HyperFluent (Set)**](https://www.pling.com/p/2133341/)|[**Persona 5 Royal (Set)**](https://www.pling.com/p/2122684)|[**Graphite**](https://www.pling.com/p/1676418/)|
 |    |    |    |
 |<img src="/Images/Linux_Mind.png" width="247">|<img src="/Images/Fallout.png" width="247">|<img src="/Images/CyberEXS.png" width="247">|
