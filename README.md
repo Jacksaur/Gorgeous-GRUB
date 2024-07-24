@@ -46,8 +46,8 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Framework.png" width="247">|<img src="/Images/Sayonara.png" width="247">|<img src="/Images/LiteMint.png" width="247">|
 |[**Framework**](https://github.com/HeinrichZurHorstMeyer/Framework-Grub-Theme)|**[Sayonara](https://github.com/samoht9277/dotfiles/tree/55455eec2c2df83be5373b1095915bb7086b1dab/grub/themes/sayonara) + [Improved Font](https://www.dropbox.com/s/il0dxjq5u65t0pt/Font.zip?dl=0)**|[**Neumorphic**](https://www.pling.com/p/1906415)|
 |    |    |    |
-|<img src="/Images/OldBIOS.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/DOOM.png" width="247">|
-|[**OldBIOS**](https://www.pling.com/p/2072033)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|
+|<img src="/Images/Crossgrub.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/DOOM.png" width="247">|
+|[**Crossgrub**](https://github.com/krypciak/crossgrub)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|
 |    |    |    |
 |<img src="/Images/Dark_Matter.gif" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Sleek.gif" width="247">|
 |[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Aero**](https://www.pling.com/p/1112066/)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|
@@ -69,5 +69,7 @@ There's loads of potential for customization, you just have to work creatively a
 |    |    |    |
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
 |[**Deadora**](https://www.pling.com/p/1111550/)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
-|<img src="/Images/CyberXero.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/Crossgrub.png" width="247">|
-|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**Crossgrub**](https://github.com/krypciak/crossgrub)|
+|<img src="/Images/CyberXero.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/OldBIOS.png" width="247">|
+|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**OldBIOS**](https://www.pling.com/p/2072033)|
+|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|-|-|-|
