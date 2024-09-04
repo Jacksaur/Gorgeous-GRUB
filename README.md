@@ -1,16 +1,16 @@
 # 🚀 Intro
-There are many great community made GRUB themes to spice up your bootloader before booting into your system proper. Unfortunately, they're spread across multiple sites and it can be difficult to find good ones. As another user told me, the majority of themes on Pling (the largest host of GRUB themes currently) are fairly low effort and can be boring to trawl through. Hence, I decided to put together this page to bring attention to some decent themes I've found around the internet over time. They aren't all absolute masterpieces of course: But they've all at least had a fair amount of effort put into them, with custom backgrounds, fonts, and colours.  
+There are many great community made GRUB themes to spice up your bootloader before booting into your system proper. Unfortunately, they're spread across multiple sites and it can be difficult to find good ones. As another user told me, the majority of themes on Pling (the largest host of GRUB themes currently) are fairly low effort and can be boring to trawl through. Hence, I decided to put together this page to bring attention to some decent themes I've found around the internet over time. They aren't all absolute masterpieces of course: But they've all at least had a fair amount of effort put into them, with custom backgrounds, fonts, and colours.
 
-And don't forget, **themes are extremely easy to customize!** Like a theme's layout but prefer a different background? Just replace the image in its folder with one of your own. Don't like the positioning of a theme's elements? Open the theme.txt and change their values. Want a different colour scheme? They're all set by HEX Values, which you can swap out in seconds. You can even convert almost any font to the type GRUB uses with the grub-mkfont command, then change the `item_font` line in the theme.txt to use it.  
+And don't forget, **themes are extremely easy to customize!** Like a theme's layout but prefer a different background? Just replace the image in its folder with one of your own. Don't like the positioning of a theme's elements? Open the theme.txt and change their values. Want a different colour scheme? They're all set by HEX Values, which you can swap out in seconds. You can even convert almost any font to the type GRUB uses with the grub-mkfont command, then change the `item_font` line in the theme.txt to use it.
 There's loads of potential for customization, you just have to work creatively around the limitations.
 
 # 🌟 Useful Links
 
-[GitZip](https://kinolien.github.io/gitzip/) - Download individual folders and files from Github repositories without having to download the entire repo. Asks for a Token, but seems to work without just fine.  
+[GitZip](https://kinolien.github.io/gitzip/) - Download individual folders and files from Github repositories without having to download the entire repo. Asks for a Token, but seems to work without just fine.
 
-[GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Multiple guides on various tweaks and additions you can make to further customize, or repair, your GRUB install.  
+[GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Multiple guides on various tweaks and additions you can make to further customize, or repair, your GRUB install.
 
-[Theme Tutorial](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial) and [Theme References](http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference) - Pretty complex, but the best set of information I've managed to find so far. It may be easier to start by taking an existing theme and making edits to it yourself, rather than diving straight in and starting from scratch.  
+[Theme Tutorial](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial) and [Theme References](http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference) - Pretty complex, but the best set of information I've managed to find so far. It may be easier to start by taking an existing theme and making edits to it yourself, rather than diving straight in and starting from scratch.
 
 [Background Cycler](https://github.com/Jacksaur/GRUB-Background-Cycler) - Script I made that will cycle a theme to a different background each time your system is rebooted. The Cron job can be modified to run at specific amounts of time instead if desired.
 
@@ -50,7 +50,7 @@ There's loads of potential for customization, you just have to work creatively a
 |[**Crossgrub**](https://github.com/krypciak/crossgrub)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|
 |    |    |    |
 |<img src="/Images/Dark_Matter.gif" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Sleek.gif" width="247">|
-|[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Aero**](https://www.pling.com/p/1112066/)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|
+|[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Aero**](https://github.com/mcarneir0/Aero-GRUB2-Theme)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|
 |    |    |    |
 |<img src="/Images/Standby.png" width="247">|<img src="/Images/Axiom.jpg" width="247">|<img src="/Images/Solarized-Dark.png" width="247">|
 |[**Standby**](https://www.pling.com/p/1172610/)|[**Axiom**](https://www.pling.com/p/1111735/)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
@@ -71,5 +71,5 @@ There's loads of potential for customization, you just have to work creatively a
 |[**Deadora**](https://www.pling.com/p/1111550/)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
 |<img src="/Images/CyberXero.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/OldBIOS.png" width="247">|
 |[**CyberXero**](https://www.pling.com/p/1502415/)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**OldBIOS**](https://www.pling.com/p/2072033)|
-|<img src="/Images/BSOL.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**BSOL**](https://www.github.com/harishnk/bsol)|-|-|
+|<img src="/Images/BSOL.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Bad.png" width="247">|
+|[**BSOL**](https://www.github.com/harishnk/bsol)|[**Grand Theft Gentoo**](https://www.github.com/harishnk/bsol)|[**Grub Heisenberg Theme**](https://www.gnome-look.org/p/1374645)|
