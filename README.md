@@ -65,11 +65,11 @@ There's loads of potential for customization, you just have to work creatively a
 |[**Solstice**](https://www.pling.com/p/1111874/)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
 |    |    |    |
 |<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Matter.gif" width="247">|<img src="/Images/Modern.gif" width="247">|
-|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://www.pling.com/p/1400298/)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
+|[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://github.com/mateosss/matter#download)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
 |    |    |    |
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
-|[**Deadora**](https://www.pling.com/p/1111550/)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
+|[**Deadora**](https://www.deviantart.com/glacto/art/Deadora-600784822)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
 |<img src="/Images/CyberXero.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/OldBIOS.png" width="247">|
 |[**CyberXero**](https://www.pling.com/p/1502415/)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**OldBIOS**](https://www.pling.com/p/2072033)|
 |<img src="/Images/BSOL.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**BSOL**](https://www.github.com/harishnk/bsol)|[**Grand Theft Gentoo**](https://www.github.com/harishnk/bsol)|-|
+|[**BSOL**](https://www.github.com/harishnkr/bsol)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|-|
