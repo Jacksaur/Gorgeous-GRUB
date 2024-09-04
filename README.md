@@ -71,5 +71,5 @@ There's loads of potential for customization, you just have to work creatively a
 |[**Deadora**](https://www.pling.com/p/1111550/)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
 |<img src="/Images/CyberXero.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/OldBIOS.png" width="247">|
 |[**CyberXero**](https://www.pling.com/p/1502415/)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**OldBIOS**](https://www.pling.com/p/2072033)|
-|<img src="/Images/BSOL.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Bad.png" width="247">|
-|[**BSOL**](https://www.github.com/harishnk/bsol)|[**Grand Theft Gentoo**](https://www.github.com/harishnk/bsol)|[**Grub Heisenberg Theme**](https://www.gnome-look.org/p/1374645)|
+|<img src="/Images/BSOL.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|[**BSOL**](https://www.github.com/harishnk/bsol)|[**Grand Theft Gentoo**](https://www.github.com/harishnk/bsol)|-|
