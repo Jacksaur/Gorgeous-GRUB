@@ -65,7 +65,7 @@ There's loads of potential for customization, you just have to work creatively a
 |**Poly ([Light](https://www.pling.com/p/1176413/)/[Dark](https://www.pling.com/p/1230780/))**|[**Atomic**](https://www.pling.com/p/1200710/)|**Plasma ([Light](https://www.pling.com/p/1197062/)/[Dark](https://www.pling.com/p/1195799/))**|
 |    |    |    |
 |<img src="/Images/BSOL.png" width="247">|<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
-||[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
+|[**BSOL**](https://www.github.com/harishnkr/bsol)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
 |    |    |    |
 |<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Matter.gif" width="247">|<img src="/Images/Modern.gif" width="247">|
 |[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://github.com/mateosss/matter#download)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
