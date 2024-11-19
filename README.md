@@ -53,7 +53,7 @@ There's loads of potential for customization, you just have to work creatively a
 |[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Aero**](https://github.com/mcarneir0/Aero-GRUB2-Theme)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|
 |    |    |    |
 |<img src="/Images/Standby.png" width="247">|<img src="/Images/Axiom.jpg" width="247">|<img src="/Images/Solarized-Dark.png" width="247">|
-|[**Standby**](https://www.pling.com/p/1172610/)|[**Axiom**](https://www.pling.com/p/1111735/)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
+|[**Standby**](https://www.pling.com/p/1172610/)|[**Axiom**](https://github.com/user-attachments/files/17193972/Axiom.tar.gz)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
 |    |    |    |
 |<img src="/Images/Retro_GRUB.png" width="247">|<img src="/Images/BigSur.png" width="247">|<img src="/Images/Distro.gif" width="247">|
 |[**Retro GRUB**](https://www.pling.com/p/1568741/)|[**BigSur**](https://www.pling.com/p/1443844/)|[**Distro Themes (Set)**](https://www.pling.com/p/1482847/)|
@@ -61,15 +61,15 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Poly.gif" width="247">|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Plasma.gif" width="247">|
 |**Poly ([Light](https://www.pling.com/p/1176413/)/[Dark](https://www.pling.com/p/1230780/))**|[**Atomic**](https://www.pling.com/p/1200710/)|**Plasma ([Light](https://www.pling.com/p/1197062/)/[Dark](https://www.pling.com/p/1195799/))**|
 |    |    |    |
-|<img src="/Images/Solstice.jpg" width="247">|<img src="/Images/Virtual_Future.png" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
-|[**Solstice**](https://www.pling.com/p/1111874/)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
+|<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/Virtual_Future.png" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
+|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
 |    |    |    |
 |<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Matter.gif" width="247">|<img src="/Images/Modern.gif" width="247">|
 |[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://github.com/mateosss/matter#download)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
 |    |    |    |
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
 |[**Deadora**](https://www.deviantart.com/glacto/art/Deadora-600784822)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
-|<img src="/Images/CyberXero.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/OldBIOS.png" width="247">|
-|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**OldBIOS**](https://www.pling.com/p/2072033)|
-|<img src="/Images/BSOL.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**BSOL**](https://www.github.com/harishnkr/bsol)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|-|
+|<img src="/Images/CyberXero.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/OldBIOS.png" width="247">|
+|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|[**OldBIOS**](https://www.pling.com/p/2072033)|
+|<img src="/Images/BSOL.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|[**BSOL**](https://www.github.com/harishnkr/bsol)|-|-|
