@@ -43,8 +43,8 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Crossgrub.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/DOOM.png" width="247">|
 |[**Crossgrub**](https://github.com/krypciak/crossgrub)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|
 |    |    |    |
-|<img src="/Images/#ASCII" width="247">|<img src="/Images/#Wuthering" width="247">|<img src="/Images/Graphite.png" width="247">|
-|[**ASCII Theme Generator (Guide)**](https://nx2.site/grub-ascii-theme)|[**Wuthering Waves**](https://www.pling.com/p/2184155)|[**Graphite**](https://www.pling.com/p/1676418/)|
+|<img src="/Images/OldBIOS.png" width="247">|<img src="/Images/Wuthering_Waves.gif" width="247">|<img src="/Images/Graphite.png" width="247">|
+|[**OldBIOS**](https://www.pling.com/p/2072033)|[**Wuthering Waves (Set)**](https://www.pling.com/p/2184155)|[**Graphite**](https://www.pling.com/p/1676418/)|
 |    |    |    |
 |<img src="/Images/Linux_Mind.png" width="247">|<img src="/Images/Fallout.png" width="247">|<img src="/Images/CyberEXS.png" width="247">|
 |[**Linux Mind**](https://www.pling.com/p/1397139/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**CyberEXS**](https://www.pling.com/p/1968990)|
@@ -64,8 +64,8 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Poly.gif" width="247">|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Plasma.gif" width="247">|
 |**Poly ([Light](https://www.pling.com/p/1176413/)/[Dark](https://www.pling.com/p/1230780/))**|[**Atomic**](https://www.pling.com/p/1200710/)|**Plasma ([Light](https://www.pling.com/p/1197062/)/[Dark](https://www.pling.com/p/1195799/))**|
 |    |    |    |
-|<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
-|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
+|<img src="/Images/BSOL.png" width="247">|<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
+||[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
 |    |    |    |
 |<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Matter.gif" width="247">|<img src="/Images/Modern.gif" width="247">|
 |[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://github.com/mateosss/matter#download)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
@@ -73,8 +73,8 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
 |[**Deadora**](https://www.deviantart.com/glacto/art/Deadora-600784822)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
 |    |    |    |
-|<img src="/Images/CyberXero.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/OldBIOS.png" width="247">|
-|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|[**OldBIOS**](https://www.pling.com/p/2072033)|
+|<img src="/Images/CyberXero.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|
+|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|
 |    |    |    |
-|<img src="/Images/BSOL.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**BSOL**](https://www.github.com/harishnkr/bsol)|-|-|
+|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|-|-|-|
