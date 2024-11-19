@@ -34,14 +34,8 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Minegrub-World.png" width="247">|<img src="/Images/Dedsec.gif" width="247">|<img src="/Images/Sekiro.png" width="247">|
 |**[Minegrub World Select](https://github.com/Lxtharia/minegrub-world-sel-theme) + [Combined Version!](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
 |    |    |    |
-|<img src="/Images/HyperFluent.gif" width="247">|<img src="/Images/Persona5.gif" width="247">|<img src="/Images/Graphite.png" width="247">|
-|[**HyperFluent (Set)**](https://www.pling.com/p/2133341/)|[**Persona 5 Royal (Set)**](https://www.pling.com/p/2122684)|[**Graphite**](https://www.pling.com/p/1676418/)|
-|    |    |    |
-|<img src="/Images/Linux_Mind.png" width="247">|<img src="/Images/Fallout.png" width="247">|<img src="/Images/CyberEXS.png" width="247">|
-|[**Linux Mind**](https://www.pling.com/p/1397139/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**CyberEXS**](https://www.pling.com/p/1968990)|
-|    |    |    |
-|<img src="/Images/Cyberpunk2077.png" width="247">|<img src="/Images/CyberRe.png" width="247">|<img src="/Images/Cyberpunk.png" width="247">|
-|[**Cyberpunk 2077**](https://www.pling.com/p/1515662/)|[**CyberRe**](https://www.pling.com/p/1420727/)|[**Cyberpunk**](https://www.pling.com/p/1429443/)|
+|<img src="/Images/HyperFluent.gif" width="247">|<img src="/Images/Persona5.gif" width="247">|<img src="/Images/ULTRAKILL.png" width="247">|
+|[**HyperFluent (Set)**](https://www.pling.com/p/2133341/)|[**Persona 5 Royal (Set)**](https://www.pling.com/p/2122684)|[**ULTRAKILL**](https://www.pling.com/p/2217746)|
 |    |    |    |
 |<img src="/Images/Framework.png" width="247">|<img src="/Images/Sayonara.png" width="247">|<img src="/Images/LiteMint.png" width="247">|
 |[**Framework**](https://github.com/HeinrichZurHorstMeyer/Framework-Grub-Theme)|**[Sayonara](https://github.com/samoht9277/dotfiles/tree/55455eec2c2df83be5373b1095915bb7086b1dab/grub/themes/sayonara) + [Improved Font](https://www.dropbox.com/s/il0dxjq5u65t0pt/Font.zip?dl=0)**|[**Neumorphic**](https://www.pling.com/p/1906415)|
@@ -49,8 +43,17 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Crossgrub.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/DOOM.png" width="247">|
 |[**Crossgrub**](https://github.com/krypciak/crossgrub)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|
 |    |    |    |
-|<img src="/Images/Dark_Matter.gif" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Sleek.gif" width="247">|
-|[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Aero**](https://github.com/mcarneir0/Aero-GRUB2-Theme)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|
+|<img src="/Images/OldBIOS.png" width="247">|<img src="/Images/Wuthering_Waves.gif" width="247">|<img src="/Images/Graphite.png" width="247">|
+|[**OldBIOS**](https://www.pling.com/p/2072033)|[**Wuthering Waves (Set)**](https://www.pling.com/p/2184155)|[**Graphite**](https://www.pling.com/p/1676418/)|
+|    |    |    |
+|<img src="/Images/Linux_Mind.png" width="247">|<img src="/Images/Fallout.png" width="247">|<img src="/Images/CyberEXS.png" width="247">|
+|[**Linux Mind**](https://www.pling.com/p/1397139/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**CyberEXS**](https://www.pling.com/p/1968990)|
+|    |    |    |
+|<img src="/Images/Dark_Matter.gif" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Elegant.gif" width="247">|
+|[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Aero**](https://github.com/mcarneir0/Aero-GRUB2-Theme)|[**Elegant (Big Set!)**](https://github.com/vinceliuice/Elegant-grub2-themes)|
+|    |    |    |
+|<img src="/Images/Cyberpunk2077.png" width="247">|<img src="/Images/CyberRe.png" width="247">|<img src="/Images/Cyberpunk.png" width="247">|
+|[**Cyberpunk 2077**](https://www.pling.com/p/1515662/)|[**CyberRe**](https://www.pling.com/p/1420727/)|[**Cyberpunk**](https://www.pling.com/p/1429443/)|
 |    |    |    |
 |<img src="/Images/Standby.png" width="247">|<img src="/Images/Axiom.jpg" width="247">|<img src="/Images/Solarized-Dark.png" width="247">|
 |[**Standby**](https://www.pling.com/p/1172610/)|[**Axiom**](https://github.com/user-attachments/files/17193972/Axiom.tar.gz)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
@@ -61,15 +64,17 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Poly.gif" width="247">|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Plasma.gif" width="247">|
 |**Poly ([Light](https://www.pling.com/p/1176413/)/[Dark](https://www.pling.com/p/1230780/))**|[**Atomic**](https://www.pling.com/p/1200710/)|**Plasma ([Light](https://www.pling.com/p/1197062/)/[Dark](https://www.pling.com/p/1195799/))**|
 |    |    |    |
-|<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/Virtual_Future.png" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
-|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**Virtual Future**](https://www.pling.com/p/1529571/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
+|<img src="/Images/BSOL.png" width="247">|<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
+|[**BSOL**](https://www.github.com/harishnkr/bsol)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
 |    |    |    |
 |<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Matter.gif" width="247">|<img src="/Images/Modern.gif" width="247">|
 |[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Matter (Customizable)**](https://github.com/mateosss/matter#download)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
 |    |    |    |
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
 |[**Deadora**](https://www.deviantart.com/glacto/art/Deadora-600784822)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
-|<img src="/Images/CyberXero.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/OldBIOS.png" width="247">|
-|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|[**OldBIOS**](https://www.pling.com/p/2072033)|
-|<img src="/Images/BSOL.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**BSOL**](https://www.github.com/harishnkr/bsol)|-|-|
+|    |    |    |
+|<img src="/Images/CyberXero.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|
+|[**CyberXero**](https://www.pling.com/p/1502415/)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|
+|    |    |    |
+|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|-|-|-|
