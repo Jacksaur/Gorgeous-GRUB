@@ -43,14 +43,14 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Crossgrub.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/DOOM.png" width="247">|
 |[**Crossgrub**](https://github.com/krypciak/crossgrub)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|
 |    |    |    |
-#|<img src="/Images/#ASCII" width="247">|<img src="/Images/#Wuthering" width="247">|<img src="/Images/Graphite.png" width="247">|
-#|[**ASCII Theme Generator (Guide)**](https://nx2.site/grub-ascii-theme)|[**Wuthering Waves**](https://www.pling.com/p/2184155)|[**Graphite**](https://www.pling.com/p/1676418/)|
+|<img src="/Images/#ASCII" width="247">|<img src="/Images/#Wuthering" width="247">|<img src="/Images/Graphite.png" width="247">|
+|[**ASCII Theme Generator (Guide)**](https://nx2.site/grub-ascii-theme)|[**Wuthering Waves**](https://www.pling.com/p/2184155)|[**Graphite**](https://www.pling.com/p/1676418/)|
 |    |    |    |
 |<img src="/Images/Linux_Mind.png" width="247">|<img src="/Images/Fallout.png" width="247">|<img src="/Images/CyberEXS.png" width="247">|
 |[**Linux Mind**](https://www.pling.com/p/1397139/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**CyberEXS**](https://www.pling.com/p/1968990)|
 |    |    |    |
 |<img src="/Images/Dark_Matter.gif" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Elegant.gif" width="247">|
-|[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Aero**](https://github.com/mcarneir0/Aero-GRUB2-Theme)|[**Elegant (Big Set!)](https://github.com/vinceliuice/Elegant-grub2-themes)|
+|[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**Aero**](https://github.com/mcarneir0/Aero-GRUB2-Theme)|[**Elegant (Big Set!)**](https://github.com/vinceliuice/Elegant-grub2-themes)|
 |    |    |    |
 |<img src="/Images/Cyberpunk2077.png" width="247">|<img src="/Images/CyberRe.png" width="247">|<img src="/Images/Cyberpunk.png" width="247">|
 |[**Cyberpunk 2077**](https://www.pling.com/p/1515662/)|[**CyberRe**](https://www.pling.com/p/1420727/)|[**Cyberpunk**](https://www.pling.com/p/1429443/)|
