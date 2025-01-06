@@ -80,7 +80,7 @@ There's loads of potential for customization, you just have to work creatively a
 |[**Minimal**](https://github.com/MrVivekRajan/Grub-Themes)|[**Doraemon**](https://github.com/MrVivekRajan/Grub-Themes)|[**Anime**](https://github.com/MrVivekRajan/Grub-Themes)|
 |    |    |    |
 |<img src="/Images/Sekiro.png" width="247">|<img src="/Images/Sekiro - Shadow.jpg" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|[**Doraemon**](https://github.com/MrVivekRajan/Grub-Themes)|-|
+|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|[**Sekiro - Shadow**](https://github.com/MrVivekRajan/Grub-Themes)|-|
 |    |    |    |
 |<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
 |-|-|-|
