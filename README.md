@@ -31,8 +31,8 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Virtuaverse.png" width="247">|<img src="/Images/Yorha.png" width="247">|<img src="/Images/CRT-Amber.png" width="247">|
 |[**Virtuaverse**](https://github.com/Patato777/dotfiles/tree/main/grub)|[**YoRHa**](https://github.com/OliveThePuffin/yorha-grub-theme)|[**CRT-Amber**](https://www.pling.com/p/1727268/)|
 |    |    |    |
-|<img src="/Images/Minegrub-World.png" width="247">|<img src="/Images/Dedsec.gif" width="247">|<img src="/Images/Sekiro.png" width="247">|
-|**[Minegrub World Select](https://github.com/Lxtharia/minegrub-world-sel-theme) + [Combined Version!](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
+|<img src="/Images/Minegrub-World.png" width="247">|<img src="/Images/Dedsec.gif" width="247">|<img src="/Images/Noice.png" width="247">|
+|**[Minegrub World Select](https://github.com/Lxtharia/minegrub-world-sel-theme) + [Combined Version!](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Noice + (templates and custom presets)**](https://github.com/1337kid/NoiceGRUB/)|
 |    |    |    |
 |<img src="/Images/HyperFluent.gif" width="247">|<img src="/Images/Persona5.gif" width="247">|<img src="/Images/ULTRAKILL.png" width="247">|
 |[**HyperFluent (Set)**](https://www.pling.com/p/2133341/)|[**Persona 5 Royal (Set)**](https://www.pling.com/p/2122684)|[**ULTRAKILL**](https://www.pling.com/p/2217746)|
@@ -76,5 +76,12 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/CyberXero.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|
 |[**CyberXero**](https://www.pling.com/p/1502415/)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|
 |    |    |    |
+|<img src="/Images/Minimal.gif" width="247">|<img src="/Images/Doraemon.jpg" width="247">|<img src="/Images/Anime.jpg" width="247">|
+|[**Minimal**](https://github.com/MrVivekRajan/Grub-Themes)|[**Doraemon**](https://github.com/MrVivekRajan/Grub-Themes)|[**Anime**](https://github.com/MrVivekRajan/Grub-Themes)|
+|    |    |    |
+|<img src="/Images/Sekiro.png" width="247">|<img src="/Images/Sekiro - Shadow.jpg" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|[**Doraemon**](https://github.com/MrVivekRajan/Grub-Themes)|-|
+|    |    |    |
 |<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
 |-|-|-|
+
