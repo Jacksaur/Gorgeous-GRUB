@@ -10,7 +10,7 @@ There's loads of potential for customization, you just have to work creatively a
 
 [GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks) - Multiple guides on various tweaks and additions you can make to further customize, or repair, your GRUB install.
 
-[Theme Tutorial](web.archive.org/web/20241209100014/http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial) and [Theme References](http://web.archive.org/web/20241209094940/http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference) - Pretty complex, but the best set of information I've managed to find so far. It may be easier to start by taking an existing theme and making edits to it yourself, rather than diving straight in and starting from scratch.
+[Theme Tutorial](http://web.archive.org/web/20241209100014/http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial) and [Theme References](http://web.archive.org/web/20241209094940/http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference) - Pretty complex, but the best set of information I've managed to find so far. It may be easier to start by taking an existing theme and making edits to it yourself, rather than diving straight in and starting from scratch.
 
 [Background Cycler](https://github.com/Jacksaur/GRUB-Background-Cycler) - Script I made that will cycle a theme to a different background each time your system is rebooted. The Cron job can be modified to run at specific amounts of time instead if desired.
 
