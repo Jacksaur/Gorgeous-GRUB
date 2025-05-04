@@ -58,8 +58,8 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Standby.png" width="247">|<img src="/Images/Axiom.jpg" width="247">|<img src="/Images/Solarized-Dark.png" width="247">|
 |[**Standby**](https://www.pling.com/p/1172610/)|[**Axiom**](https://github.com/user-attachments/files/17193972/Axiom.tar.gz)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
 |    |    |    |
-|<img src="/Images/Retro_GRUB.png" width="247">|<img src="/Images/BigSur.png" width="247">|<img src="/Images/Distro.gif" width="247">|
-|[**Retro GRUB**](https://www.pling.com/p/1568741/)|[**BigSur**](https://www.pling.com/p/1443844/)|[**Distro Themes (Set)**](https://www.pling.com/p/1482847/)|
+|<img src="/Images/CyberGRUB-2077.png" width="247">|<img src="/Images/BigSur.png" width="247">|<img src="/Images/Distro.gif" width="247">|
+|[**CyberGRUB-2077**](https://github.com/adnksharp/CyberGRUB-2077)|[**BigSur**](https://www.pling.com/p/1443844/)|[**Distro Themes (Set)**](https://www.pling.com/p/1482847/)|
 |    |    |    |
 |<img src="/Images/Poly.gif" width="247">|<img src="/Images/Atomic.png" width="247">|<img src="/Images/Plasma.gif" width="247">|
 |**Poly ([Light](https://www.pling.com/p/1176413/)/[Dark](https://www.pling.com/p/1230780/))**|[**Atomic**](https://www.pling.com/p/1200710/)|**Plasma ([Light](https://www.pling.com/p/1197062/)/[Dark](https://www.pling.com/p/1195799/))**|
@@ -76,5 +76,5 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/CyberXero.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|
 |[**CyberXero**](https://www.pling.com/p/1502415/)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|
 |    |    |    |
-|<img src="/Images/CyberGRUB-2077.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**CyberGRUB-2077**](https://github.com/adnksharp/CyberGRUB-2077)|-|-|
+|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|-|-|-|
