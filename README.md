@@ -12,6 +12,8 @@ There's loads of potential for customization, you just have to work creatively a
 
 [Theme Tutorial](http://web.archive.org/web/20241209100014/http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial) and [Theme References](http://web.archive.org/web/20241209094940/http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference) - Pretty complex, but the best set of information I've managed to find so far. It may be easier to start by taking an existing theme and making edits to it yourself, rather than diving straight in and starting from scratch.
 
+[GRUB2 Theme Preview](https://github.com/hartwork/grub2-theme-preview) - Very useful software to preview GRUB themes without having to reboot your entire system. Requires a lot of dependencies (since it's spinning up a whole VM), but there's an easy command to install them all in the [GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks?tab=readme-ov-file#-testing-your-grub-themes) repo.
+
 [Background Cycler](https://github.com/Jacksaur/GRUB-Background-Cycler) - Script I made that will cycle a theme to a different background each time your system is rebooted. The Cron job can be modified to run at specific amounts of time instead if desired.
 
 
