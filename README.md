@@ -1,4 +1,6 @@
 # 🚀 Intro
+**⭐ Thank you for 3K Stars! <3**
+
 There are many great community made GRUB themes to spice up your bootloader before booting into your system proper. Unfortunately, they're spread across multiple sites and it can be difficult to find good ones. As another user told me, the majority of themes on Pling (the largest host of GRUB themes currently) are fairly low effort and can be boring to trawl through. Hence, I decided to put together this page to bring attention to some decent themes I've found around the internet over time. They aren't all absolute masterpieces of course: But they've all at least had a fair amount of effort put into them, with custom backgrounds, fonts, and colours.
 
 And don't forget, **themes are extremely easy to customize!** Like a theme's layout but prefer a different background? Just replace the image in its folder with one of your own. Don't like the positioning of a theme's elements? Open the theme.txt and change their values. Want a different colour scheme? They're all set by HEX Values, which you can swap out in seconds. You can even convert almost any font to the type GRUB uses with the grub-mkfont command, then change the `item_font` line in the theme.txt to use it.
@@ -36,17 +38,20 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Minegrub-World.png" width="247">|<img src="/Images/Dedsec.gif" width="247">|<img src="/Images/Sekiro.png" width="247">|
 |**[Minegrub World Select](https://github.com/Lxtharia/minegrub-world-sel-theme) + [Combined Version!](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
 |    |    |    |
-|<img src="/Images/HyperFluent.gif" width="247">|<img src="/Images/Persona5.gif" width="247">|<img src="/Images/ULTRAKILL.png" width="247">|
-|[**HyperFluent (Set)**](https://www.pling.com/p/2133341/)|[**Persona 5 Royal (Set)**](https://www.pling.com/p/2122684)|[**ULTRAKILL**](https://www.pling.com/p/2217746)|
+|<img src="/Images/HyperFluent.gif" width="247">|<img src="/Images/Persona5.gif" width="247">|<img src="/Images/Wuthering_Waves.gif" width="247">|
+|[**HyperFluent (Set)**](https://www.pling.com/p/2133341/)|[**Persona 5 Royal (Set)**](https://www.pling.com/p/2122684)|[**Wuthering Waves (Set)**](https://www.pling.com/p/2184155)|
 |    |    |    |
-|<img src="/Images/Framework.png" width="247">|<img src="/Images/Sayonara.png" width="247">|<img src="/Images/LiteMint.png" width="247">|
-|[**Framework**](https://github.com/HeinrichZurHorstMeyer/Framework-Grub-Theme)|**[Sayonara](https://github.com/samoht9277/dotfiles/tree/55455eec2c2df83be5373b1095915bb7086b1dab/grub/themes/sayonara) + [Improved Font](https://www.dropbox.com/s/il0dxjq5u65t0pt/Font.zip?dl=0)**|[**Neumorphic**](https://www.pling.com/p/1906415)|
+|<img src="/Images/Blasphemous.png" width="247">|<img src="/Images/HollowKnight.gif" width="247">|<img src="/Images/SpaceIsolation.jpg" width="247">|
+|[**Grubphemous**](https://github.com/pvtoari/grubphemous-theme)|[**Hollow Grub**](https://github.com/sergoncano/hollow-knight-grub-theme)|[**Space Isolation**](https://github.com/callmenoodles/space-isolation)|
+|    |    |    |
+|<img src="/Images/Framework.png" width="247">|<img src="/Images/Sayonara.png" width="247">|<img src="/Images/ULTRAKILL.png" width="247">|
+|[**Framework**](https://github.com/HeinrichZurHorstMeyer/Framework-Grub-Theme)|**[Sayonara](https://github.com/samoht9277/dotfiles/tree/55455eec2c2df83be5373b1095915bb7086b1dab/grub/themes/sayonara) + [Improved Font](https://www.dropbox.com/s/il0dxjq5u65t0pt/Font.zip?dl=0)**|[**ULTRAKILL**](https://www.pling.com/p/2217746)|
 |    |    |    |
 |<img src="/Images/Crossgrub.png" width="247">|<img src="/Images/Arcade.png" width="247">|<img src="/Images/DOOM.png" width="247">|
 |[**Crossgrub**](https://github.com/krypciak/crossgrub)|[**Arcade**](https://github.com/nobreDaniel/dotfile)|[**DOOM**](https://github.com/Lxtharia/doomgrub-theme)|
 |    |    |    |
-|<img src="/Images/OldBIOS.png" width="247">|<img src="/Images/Wuthering_Waves.gif" width="247">|<img src="/Images/Graphite.png" width="247">|
-|[**OldBIOS**](https://www.pling.com/p/2072033)|[**Wuthering Waves (Set)**](https://www.pling.com/p/2184155)|[**Graphite**](https://www.pling.com/p/1676418/)|
+|<img src="/Images/OldBIOS.png" width="247">|<img src="/Images/Neumorphic.png" width="247">|<img src="/Images/Graphite.png" width="247">|
+|[**OldBIOS**](https://www.pling.com/p/2072033)|[**Neumorphic**](https://www.pling.com/p/1906415)|[**Graphite**](https://www.pling.com/p/1676418/)|
 |    |    |    |
 |<img src="/Images/Linux_Mind.png" width="247">|<img src="/Images/Fallout.png" width="247">|<img src="/Images/CyberEXS.png" width="247">|
 |[**Linux Mind**](https://www.pling.com/p/1397139/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**CyberEXS**](https://www.pling.com/p/1968990)|
@@ -78,5 +83,5 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/CyberXero.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|
 |[**CyberXero**](https://www.pling.com/p/1502415/)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|
 |    |    |    |
-|<img src="/Images/Blasphemous.png" width="247">|<img src="/Images/HollowKnight.gif" width="247">|<img src="/Images/SpaceIsolation.jpg" width="247">|
-|[**Grubphemous**](https://github.com/pvtoari/grubphemous-theme)|[**Hollow Grub**](https://github.com/sergoncano/hollow-knight-grub-theme)|[**Space Isolation**](https://github.com/callmenoodles/space-isolation)|
+|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|-|-|-|
