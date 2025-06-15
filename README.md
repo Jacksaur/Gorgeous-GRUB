@@ -78,5 +78,5 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/CyberXero.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Catppuccin.png" width="247">|
 |[**CyberXero**](https://www.pling.com/p/1502415/)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|
 |    |    |    |
-|<img src="/Images/Blasphemous.png" width="247">|<img src="/Images/HollowKnight.gif" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**Grubphemous**](https://github.com/pvtoari/grubphemous-theme)|[**Hollow Grub**](https://github.com/sergoncano/hollow-knight-grub-theme)|-|
+|<img src="/Images/Blasphemous.png" width="247">|<img src="/Images/HollowKnight.gif" width="247">|<img src="/Images/SpaceIsolation.jpg" width="247">|
+|[**Grubphemous**](https://github.com/pvtoari/grubphemous-theme)|[**Hollow Grub**](https://github.com/sergoncano/hollow-knight-grub-theme)|[**Space Isolation**](https://github.com/callmenoodles/space-isolation)|
