@@ -42,7 +42,7 @@ There's loads of potential for customization, you just have to work creatively a
 |[**HyperFluent (Set)**](https://www.pling.com/p/2133341/)|[**Persona 5 Royal (Set)**](https://www.pling.com/p/2122684)|[**Wuthering Waves (Set)**](https://www.pling.com/p/2184155)|
 |    |    |    |
 |<img src="/Images/Blasphemous.png" width="247">|<img src="/Images/HollowKnight.gif" width="247">|<img src="/Images/SpaceIsolation.jpg" width="247">|
-|[**Grubphemous**](https://github.com/pvtoari/grubphemous-theme)|[**Hollow Grub**](https://github.com/sergoncano/hollow-knight-grub-theme)|[**Space Isolation**](https://github.com/callmenoodles/space-isolation)|
+|[**Grubphemous**](https://github.com/pvtoari/grubphemous-theme)|[**Hollow Grub (Set)**](https://github.com/sergoncano/hollow-knight-grub-theme)|[**Space Isolation**](https://github.com/callmenoodles/space-isolation)|
 |    |    |    |
 |<img src="/Images/Framework.png" width="247">|<img src="/Images/Sayonara.png" width="247">|<img src="/Images/ULTRAKILL.png" width="247">|
 |[**Framework**](https://github.com/HeinrichZurHorstMeyer/Framework-Grub-Theme)|**[Sayonara](https://github.com/samoht9277/dotfiles/tree/55455eec2c2df83be5373b1095915bb7086b1dab/grub/themes/sayonara) + [Improved Font](https://www.dropbox.com/s/il0dxjq5u65t0pt/Font.zip?dl=0)**|[**ULTRAKILL**](https://www.pling.com/p/2217746)|
