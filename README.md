@@ -31,7 +31,6 @@ There's loads of potential for customization, you just have to work creatively a
 |:-------:|:-------:|:---------:|
 |<img src="/Images/CelesteGRUB.png" width="247">
 |**[CelesteGRUB](https://github.com/suilven641/CelesteGRUB)** |
-|:-------:|:-------:|:---------:|
 |<img src="/Images/Minegrub.png" width="247">|<img src="/Images/Descent.jpg" width="247">|<img src="/Images/SteamOS.png" width="247">|
 |**[Minegrub (Cycling Text)](https://github.com/Lxtharia/minegrub-theme) + [Combined Version!](https://github.com/Lxtharia/double-minegrub-menu)**|[**Descent**](https://www.pling.com/p/1000083/)|[**SteamOS (Personalized)**](https://github.com/LegendaryBibo/Steam-Big-Picture-Grub-Theme)|
 |    |    |    |
