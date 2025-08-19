@@ -53,8 +53,8 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/OldBIOS.png" width="247">|<img src="/Images/Neumorphic.png" width="247">|<img src="/Images/Graphite.png" width="247">|
 |[**OldBIOS**](https://www.pling.com/p/2072033)|[**Neumorphic**](https://www.pling.com/p/1906415)|[**Graphite**](https://www.pling.com/p/1676418/)|
 |    |    |    |
-|<img src="/Images/Linux_Mind.png" width="247">|<img src="/Images/Fallout.png" width="247">|<img src="/Images/CyberEXS.png" width="247">|
-|[**Linux Mind**](https://www.pling.com/p/1397139/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**CyberEXS**](https://www.pling.com/p/1968990)|
+|<img src="/Images/Linux_Mind.png" width="247">|<img src="/Images/Fallout.png" width="247">|<img src="/Images/LoboGRUB.png" width="247">|
+|[**Linux Mind**](https://www.pling.com/p/1397139/)|[**Fallout**](https://www.pling.com/p/1230882/)|[**Lobotomy GRUB**](https://github.com/rats-scamper/LoboGrubTheme)|
 |    |    |    |
 |<img src="/Images/Dark_Matter.gif" width="247">|<img src="/Images/CelesteGRUBch8.png" width="247">|<img src="/Images/Elegant.gif" width="247">|
 |[**Dark Matter (Set)**](https://www.pling.com/p/1603282/)|[**CelesteGRUB**](https://github.com/suilven641/CelesteGRUB/)|[**Elegant (Big Set!)**](https://github.com/vinceliuice/Elegant-grub2-themes)|
@@ -80,5 +80,5 @@ There's loads of potential for customization, you just have to work creatively a
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
 |[**Deadora**](https://www.deviantart.com/glacto/art/Deadora-600784822)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
 |    |    |    |
-|<img src="/Images/GrubSouls.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**GrubSouls**](https://github.com/PedroMMarinho/grubsouls-theme)|-|-|
+|<img src="/Images/GrubSouls.png" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|[**GrubSouls**](https://github.com/PedroMMarinho/grubsouls-theme)|[**Aero**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|-|
