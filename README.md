@@ -63,7 +63,7 @@ There's loads of potential for customization, you just have to work creatively a
 |[**Cyberpunk 2077**](https://www.pling.com/p/1515662/)|[**CyberRe**](https://www.pling.com/p/1420727/)|[**Cyberpunk**](https://www.pling.com/p/1429443/)|
 |    |    |    |
 |<img src="/Images/Catppuccin.png" width="247">|<img src="/Images/Axiom.jpg" width="247">|<img src="/Images/Solarized-Dark.png" width="247">|
-|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**Axiom**](https://github.com/user-attachments/files/17193972/Axiom.tar.gz)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
+|[**Catppuccin (Set)**](https://github.com/catppuccin/grub)|[**Axiom**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|[**Solarized-Dark**](https://www.pling.com/p/1177401/)|
 |    |    |    |
 |<img src="/Images/CyberGRUB-2077.png" width="247">|<img src="/Images/Sleek.gif" width="247">|<img src="/Images/Distro.gif" width="247">|
 |[**CyberGRUB-2077**](https://github.com/adnksharp/CyberGRUB-2077)|[**Sleek (Set + Personalized)**](https://www.pling.com/p/1414997/)|[**Distro Themes (Set)**](https://www.pling.com/p/1482847/)|
@@ -72,13 +72,13 @@ There's loads of potential for customization, you just have to work creatively a
 |[**CyberXero**](https://www.pling.com/p/1502415/)|[**Atomic**](https://www.pling.com/p/1200710/)|**Plasma ([Light](https://www.pling.com/p/1197062/)/[Dark](https://www.pling.com/p/1195799/))**|
 |    |    |    |
 |<img src="/Images/BSOL.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
-|[**BSOL**](https://www.github.com/harishnkr/bsol)|[**Grand Theft Gentoo**](https://www.gnome-look.org/p/2064031)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
+|[**BSOL**](https://www.github.com/harishnkr/bsol)|[**Grand Theft Gentoo**](https://www.pling.org/p/2064031)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
 |    |    |    |
 |<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Milk.png" width="247">|<img src="/Images/Modern.gif" width="247">|
 |[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Milk Outside A Bag of Milk**](https://www.pling.com/p/2296341)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
 |    |    |    |
 |<img src="/Images/Deadora.png" width="247">|<img src="/Images/Breeze.png" width="247">|<img src="/Images/GutsBlack-ArchLinux.png" width="247">|
-|[**Deadora**](https://www.deviantart.com/glacto/art/Deadora-600784822)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://forums.archlinux.fr/viewtopic.php?t=11361)|
+|[**Deadora**](https://www.deviantart.com/glacto/art/Deadora-600784822)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|
 |    |    |    |
 |<img src="/Images/GrubSouls.png" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
 |[**GrubSouls**](https://github.com/PedroMMarinho/grubsouls-theme)|[**Aero**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|-|
