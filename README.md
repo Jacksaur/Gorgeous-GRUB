@@ -81,4 +81,5 @@ There's loads of potential for customization, you just have to work creatively a
 |[**Deadora**](https://www.deviantart.com/glacto/art/Deadora-600784822)|[**Breeze**](https://www.pling.com/p/1000111/)|[**Gutsblack Archlinux**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|
 |    |    |    |
 |<img src="/Images/GrubSouls.png" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|[**GrubSouls**](https://github.com/PedroMMarinho/grubsouls-theme)|[**Aero**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|-|
+|[**GrubSouls**](https://github.com/PedroMMarinho/grubsouls-theme)|[**Aero**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)||<img src="https://github.com/meowmet/one-piece-grub-theme/blob/main/preview.gif" width="247">|
+|[**One Piece GRUB Theme**](https://github.com/meowmet/one-piece-grub-theme)|-|
