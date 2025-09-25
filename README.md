@@ -36,8 +36,8 @@ Just bear in mind that each theme may have its own license or restrictions, so b
 |<img src="/Images/Virtuaverse.png" width="247">|<img src="/Images/Yorha.png" width="247">|<img src="/Images/CRT-Amber.png" width="247">|
 |[**Virtuaverse**](https://github.com/Patato777/dotfiles/tree/main/grub)|[**YoRHa**](https://github.com/OliveThePuffin/yorha-grub-theme)|[**CRT-Amber**](https://www.pling.com/p/1727268/)|
 |    |    |    |
-|<img src="/Images/Minegrub-World.png" width="247">|<img src="/Images/Dedsec.gif" width="247">|<img src="/Images/Sekiro.png" width="247">|
-|**[Minegrub World Select](https://github.com/Lxtharia/minegrub-world-sel-theme) + [Combined Version!](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|[**Sekiro**](https://github.com/semimqmo/sekiro_grub_theme)|
+|<img src="/Images/Minegrub-World.png" width="247">|<img src="/Images/Dedsec.gif" width="247">|<img src="/Images/Sekiro.gif" width="247">|
+|**[Minegrub World Select](https://github.com/Lxtharia/minegrub-world-sel-theme) + [Combined Version!](https://github.com/Lxtharia/double-minegrub-menu)**|[**DedSec (Set)**](https://www.pling.com/p/1569525/)|**Sekiro ([Normal](https://github.com/semimqmo/sekiro_grub_theme)/[Shadow](https://github.com/MrVivekRajan/Grub-Themes/tree/main/SekiroShadow))**|
 |    |    |    |
 |<img src="/Images/HyperFluent.gif" width="247">|<img src="/Images/Persona5.gif" width="247">|<img src="/Images/Wuthering_Waves.gif" width="247">|
 |[**HyperFluent (Set)**](https://www.pling.com/p/2133341/)|[**Persona 5 Royal (Set)**](https://www.pling.com/p/2122684)|[**Wuthering Waves (Set)**](https://www.pling.com/p/2184155)|
