@@ -5,6 +5,7 @@ There are many great community made GRUB themes to spice up your bootloader befo
 
 And don't forget, **themes are extremely easy to customize!** Like a theme's layout but prefer a different background? Just replace the image in its folder with one of your own. Don't like the positioning of a theme's elements? Open the theme.txt and change their values. Want a different colour scheme? They're all set by HEX Values, which you can swap out in seconds. You can even convert almost any font to the type GRUB uses with the grub-mkfont command, then change the `item_font` line in the theme.txt to use it.
 There's loads of potential for customization, you just have to work creatively around the limitations.
+Just bear in mind that each theme may have its own license or restrictions, so be sure to check first!
 
 # 🌟 Useful Links
 
