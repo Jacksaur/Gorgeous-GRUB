@@ -72,7 +72,7 @@ There's loads of potential for customization, you just have to work creatively a
 |[**CyberXero**](https://www.pling.com/p/1502415/)|[**Atomic**](https://www.pling.com/p/1200710/)|**Plasma ([Light](https://www.pling.com/p/1197062/)/[Dark](https://www.pling.com/p/1195799/))**|
 |    |    |    |
 |<img src="/Images/BSOL.png" width="247">|<img src="/Images/GTG.png" width="247">|<img src="/Images/Grubby_Terminal.jpg" width="247">|
-|[**BSOL**](https://www.github.com/harishnkr/bsol)|[**Grand Theft Gentoo**](https://www.pling.org/p/2064031)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
+|[**BSOL**](https://www.github.com/harishnkr/bsol)|[**Grand Theft Gentoo**](https://gitlab.com/imnotpua/grub_gtg/)|[**Grubby Terminal**](https://gitlab.com/perthshiretim/grubby-terminal)|
 |    |    |    |
 |<img src="/Images/Billys_Agent.png" width="247">|<img src="/Images/Milk.png" width="247">|<img src="/Images/Modern.gif" width="247">|
 |[**Billy's Agent**](https://gitlab.com/Drorago/billys-agent-grub2-theme)|[**Milk Outside A Bag of Milk**](https://www.pling.com/p/2296341)|[**Modern Design Themes (Set)**](https://github.com/vinceliuice/grub2-themes)|
