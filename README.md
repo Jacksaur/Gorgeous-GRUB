@@ -86,3 +86,5 @@ Just bear in mind that each theme may have its own license or restrictions, so b
 |    |    |    |
 |<img src="/Images/Grubshin_Bootpact.gif" width="247" alt="Grubshin Bootpact - A GRUB theme inspired by Genshin Impact's teleportation screen">|<img src="/Images/MatrixMorpheus.gif" width="247" alt="A minimalist Matrix-inspired GRUB theme featuring full-screen dynamic backgrounds that change between Linux and Windows.">|<img src="/Images/Grubnautica.png" width="247" alt="Grubnautica - A GRUB2 theme based on Subnautica">|
 |[**Grubshin Bootpact (Set)**](https://github.com/max-ishere/grubshin-bootpact)|[**Matrix-Morpheus-GRUB-Theme**](https://github.com/Priyank-Adhav/Matrix-Morpheus-GRUB-Theme)|[**Grubnautica**](https://github.com/tatounee/Grubnautica)|
+|<img src="/Images/LiquidGRUB.png" width="247">| | |
+|**[LiquidGlass](https://github.com/Purp1eDuck2008/Liquid-GRUB)**| | |
