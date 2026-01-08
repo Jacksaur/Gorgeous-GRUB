@@ -1,11 +1,7 @@
 # 🚀 Intro
 **⭐ Thank you for 3K Stars! <3**
 
-There are many great community made GRUB themes to spice up your bootloader before booting into your system proper. Unfortunately, they're spread across multiple sites and it can be difficult to find good ones. As another user told me, the majority of themes on Pling (the largest host of GRUB themes currently) are fairly low effort and can be boring to trawl through. Hence, I decided to put together this page to bring attention to some decent themes I've found around the internet over time. They aren't all absolute masterpieces of course: But they've all at least had a fair amount of effort put into them, with custom backgrounds, fonts, and colours.
-
-And don't forget, **themes are extremely easy to customize!** Like a theme's layout but prefer a different background? Just replace the image in its folder with one of your own. Don't like the positioning of a theme's elements? Open the theme.txt and change their values. Want a different colour scheme? They're all set by HEX Values, which you can swap out in seconds. You can even convert almost any font to the type GRUB uses with the grub-mkfont command, then change the `item_font` line in the theme.txt to use it.
-There's loads of potential for customization, you just have to work creatively around the limitations.
-Just bear in mind that each theme may have its own license or restrictions, so be sure to check first!
+There are many great community made GRUB themes to spice up your bootloader before booting into your system proper. Unfortunately, they're scattered across multiple sites and it can be difficult to find good ones. As another user told me, the majority of themes on Pling (the largest host of GRUB themes currently) are fairly low effort and can be boring to trawl through. Hence, I decided to put together this page to bring attention to some decent themes I've found around the internet over time.
 
 # 🌟 Useful Links
 
@@ -17,7 +13,7 @@ Just bear in mind that each theme may have its own license or restrictions, so b
 
 [GRUB2 Theme Preview](https://github.com/hartwork/grub2-theme-preview) - Very useful software to preview GRUB themes without having to reboot your entire system. Requires a lot of dependencies (since it's spinning up a whole VM), but there's an easy command to install them all in the [GRUB-Tweaks](https://github.com/VandalByte/grub-tweaks?tab=readme-ov-file#-testing-your-grub-themes) repo.
 
-[Background Cycler](https://github.com/Jacksaur/GRUB-Background-Cycler) - Script I made that will cycle a theme to a different background each time your system is rebooted. The Cron job can be modified to run at specific amounts of time instead if desired.
+[Background Cycler](https://github.com/Jacksaur/GRUB-Background-Cycler) - A script I made to cycle a theme between different backgrounds each time your system is rebooted.
 
 
 # 🛠️ [Installing a theme](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Installation.md)
