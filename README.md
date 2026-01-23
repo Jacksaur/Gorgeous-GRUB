@@ -83,5 +83,6 @@ There are many great community made GRUB themes to spice up your bootloader befo
 |<img src="/Images/Grubshin_Bootpact.gif" width="247" alt="Grubshin Bootpact - A GRUB theme inspired by Genshin Impact's teleportation screen">|<img src="/Images/MatrixMorpheus.gif" width="247" alt="A minimalist Matrix-inspired GRUB theme featuring full-screen dynamic backgrounds that change between Linux and Windows.">|<img src="/Images/Grubnautica.gif" width="247" alt="Grubnautica - A GRUB2 theme based on Subnautica">|
 |[**Grubshin Bootpact (Set)**](https://github.com/max-ishere/grubshin-bootpact)|[**Matrix-Morpheus-GRUB-Theme**](https://github.com/Priyank-Adhav/Matrix-Morpheus-GRUB-Theme)|[**Grubnautica (Set)**](https://github.com/tatounee/Grubnautica)|
 |    |    |    |
-|<img src="/Images/LiquidGRUB.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
-|**[LiquidGlass](https://github.com/Purp1eDuck2008/Liquid-GRUB)**|-|-|
+|<img src="/Images/LiquidGRUB.png" width="247">|<img src="Images/Kepler_186f.png" width="300" alt="Kepler 186f - A GRUB theme inspired by the artistic impression of the possible habitable planet orbiting the Kepler star">|<img src="/Images/Placeholder.png" width="247">|
+|**[LiquidGlass](https://github.com/Purp1eDuck2008/Liquid-GRUB)**|[**Kepler 186f**](https://github.com/rafspiny/grub_themes)|-|
+|    |    |    |
