@@ -80,8 +80,8 @@ There are many great community made GRUB themes to spice up your bootloader befo
 |<img src="/Images/GrubSouls.png" width="247">|<img src="/Images/Aero.png" width="247">|<img src="/Images/Valhalla.png" width="247">|
 |[**GrubSouls**](https://github.com/PedroMMarinho/grubsouls-theme)|[**Aero**](https://github.com/Jacksaur/Gorgeous-GRUB-Archive/tree/main)|[**VA-11 HALL-A**](https://github.com/happyzxzxz/valhallaDots/tree/main)|
 |    |    |    |
-|<img src="/Images/Grubshin_Bootpact.gif" width="247" alt="Grubshin Bootpact - A GRUB theme inspired by Genshin Impact's teleportation screen">|<img src="/Images/MatrixMorpheus.gif" width="247" alt="A minimalist Matrix-inspired GRUB theme featuring full-screen dynamic backgrounds that change between Linux and Windows.">|<img src="/Images/Grubnautica.png" width="247" alt="Grubnautica - A GRUB2 theme based on Subnautica">|
-|[**Grubshin Bootpact (Set)**](https://github.com/max-ishere/grubshin-bootpact)|[**Matrix-Morpheus-GRUB-Theme**](https://github.com/Priyank-Adhav/Matrix-Morpheus-GRUB-Theme)|[**Grubnautica**](https://github.com/tatounee/Grubnautica)|
+|<img src="/Images/Grubshin_Bootpact.gif" width="247" alt="Grubshin Bootpact - A GRUB theme inspired by Genshin Impact's teleportation screen">|<img src="/Images/MatrixMorpheus.gif" width="247" alt="A minimalist Matrix-inspired GRUB theme featuring full-screen dynamic backgrounds that change between Linux and Windows.">|<img src="/Images/Grubnautica.gif" width="247" alt="Grubnautica - A GRUB2 theme based on Subnautica">|
+|[**Grubshin Bootpact (Set)**](https://github.com/max-ishere/grubshin-bootpact)|[**Matrix-Morpheus-GRUB-Theme**](https://github.com/Priyank-Adhav/Matrix-Morpheus-GRUB-Theme)|[**Grubnautica (Set)**](https://github.com/tatounee/Grubnautica)|
 |    |    |    |
 |<img src="/Images/LiquidGRUB.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
 |**[LiquidGlass](https://github.com/Purp1eDuck2008/Liquid-GRUB)**|-|-|
