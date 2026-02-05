@@ -15,6 +15,8 @@ There are many great community made GRUB themes to spice up your bootloader befo
 
 [Background Cycler](https://github.com/Jacksaur/GRUB-Background-Cycler) - A script I made to cycle a theme between different backgrounds each time your system is rebooted.
 
+[Theme Installer (Community Made)](https://github.com/FLEXIY0/gorgeous-grub-installer) - Script created by FLEXIY0 that can automatically download and install a large amount of themes. May encounter errors on some edge-cases.
+
 
 # 🛠️ [Installing a theme](https://github.com/Jacksaur/Gorgeous-GRUB/blob/main/Installation.md)
 
