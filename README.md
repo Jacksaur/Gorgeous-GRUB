@@ -94,4 +94,4 @@ There are many great community made GRUB themes to spice up your bootloader befo
 |[**Grub of Tsushima**](https://github.com/ivanimmanuel-dev/grub-of-tsushima)|[**Outer Wilds**](https://github.com/Terofale/outer-wilds-grub-theme)|[**Marathon (Set)**](https://github.com/Woysful/Marathon-Grub-Themes)|
 |    |    |    |
 |<img src="/Images/Gameboy.gif" width="247">|<img src="/Images/HalfLife.gif" width="247">|<img src="Images/Placeholder.png" width="247">|
-|[**Gameboy**](https://codeberg.org/wast/grub2-gameboy-theme)|[**Half-Life HUD (Set)**](https://github.com/KingKusuo/half-life-grub-theme)|-|
+|[**Gameboy**](https://codeberg.org/wast/grub2-gameboy-theme)|[**Half-Life (Set)**](https://github.com/KingKusuo/half-life-grub-theme)|-|
