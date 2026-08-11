@@ -93,5 +93,9 @@ There are many great community made GRUB themes to spice up your bootloader befo
 |<img src="/Images/GrubOfTsushima.gif" width="247">|<img src="Images/OuterWilds.png" width="247">|<img src="Images/Marathon.gif" width="247">|
 |[**Grub of Tsushima**](https://github.com/ivanimmanuel-dev/grub-of-tsushima)|[**Outer Wilds**](https://github.com/Terofale/outer-wilds-grub-theme)|[**Marathon (Set)**](https://github.com/Woysful/Marathon-Grub-Themes)|
 |    |    |    |
+|<img src="/Images/nes.png" width="247">|<img src="/Images/street.png" width="247">|<img src="/Images/ben.png" width="247">|
+|[**NES**](https://github.com/KADHIRAVANEG/grub-themes)|[**Street**](https://github.com/KADHIRAVANEG/grub-themes)|[**Ben**](https://github.com/KADHIRAVANEG/grub-themes)|
+|    |    |    |
 |<img src="/Images/Gameboy.gif" width="247">|<img src="/Images/EvoDevo.jpg" width="247">|<img src="Images/Placeholder.png" width="247">|
 |[**Gameboy**](https://codeberg.org/wast/grub2-gameboy-theme)|[**EvoDevo (Configurable)**](https://github.com/ftonneau/grub-evodevo)|-|
+
