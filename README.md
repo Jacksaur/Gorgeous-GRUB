@@ -96,6 +96,8 @@ There are many great community made GRUB themes to spice up your bootloader befo
 |<img src="/Images/nes.png" width="247">|<img src="/Images/street.png" width="247">|<img src="/Images/ben.png" width="247">|
 |[**NES**](https://github.com/KADHIRAVANEG/grub-themes)|[**Street**](https://github.com/KADHIRAVANEG/grub-themes)|[**Ben**](https://github.com/KADHIRAVANEG/grub-themes)|
 |    |    |    |
-|<img src="/Images/Gameboy.gif" width="247">|<img src="/Images/EvoDevo.jpg" width="247">|<img src="Images/Placeholder.png" width="247">|
-|[**Gameboy**](https://codeberg.org/wast/grub2-gameboy-theme)|[**EvoDevo (Configurable)**](https://github.com/ftonneau/grub-evodevo)|-|
-
+|<img src="/Images/Gameboy.gif" width="247">|<img src="/Images/EvoDevo.jpg" width="247">|<img src="/Images/HalfLife.gif" width="247">|
+|[**Gameboy**](https://codeberg.org/wast/grub2-gameboy-theme)|[**EvoDevo (Configurable)**](https://github.com/ftonneau/grub-evodevo)|[**Half-Life (Set)**](https://github.com/KingKusuo/half-life-grub-theme)|
+|    |    |    |
+|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="Images/Placeholder.png" width="247">|
+|-|-|-|
