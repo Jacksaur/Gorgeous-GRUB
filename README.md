@@ -99,5 +99,5 @@ There are many great community made GRUB themes to spice up your bootloader befo
 |<img src="/Images/Gameboy.gif" width="247">|<img src="/Images/EvoDevo.jpg" width="247">|<img src="/Images/HalfLife.gif" width="247">|
 |[**Gameboy**](https://codeberg.org/wast/grub2-gameboy-theme)|[**EvoDevo (Configurable)**](https://github.com/ftonneau/grub-evodevo)|[**Half-Life (Set)**](https://github.com/KingKusuo/half-life-grub-theme)|
 |    |    |    |
-|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="Images/Placeholder.png" width="247">|
-|-|-|-|
+|<img src="/Images/ROG-GRUB.png" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="/Images/Placeholder.png" width="247">|
+|[**ROG-GRUB**](https://github.com/aryatpython-sudo/ROG-GRUB)| - | - |
