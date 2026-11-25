@@ -101,3 +101,5 @@ There are many great community made GRUB themes to spice up your bootloader befo
 |    |    |    |
 |<img src="/Images/Satisfactory.gif" width="247">|<img src="/Images/Placeholder.png" width="247">|<img src="Images/Placeholder.png" width="247">|
 |[**Satisfactory (Set)**](https://github.com/Spokloo/satisfactory-grub-themes)|-|-|
+|<img src="/Images/Kingdom-Hearts.png" width="247">|-|-|
+|[**Kingdom-Hearts**](themes/Kingdom-Hearts)|-|-|
