@@ -1,17 +1,13 @@
-#------------------------------------------------------------
 # Kingdom-Hearts GRUB Theme
-# A GRUB theme designed around the Kingdom Hearts wallpaper
+# Designed around the Kingdom Hearts wallpaper
 # Palette: dark slate panel + gold accents over bright wallpaper
-#------------------------------------------------------------
-
-# GRUB gfxmode should match the background resolution:
-# GRUB_GFXMODE=1920x1080
+# Requires: GRUB_GFXMODE=1920x1080 in /etc/default/grub
 
 # ------------------------------------------------------------
-# Background image
+# Background image (wallpaper)
 # ------------------------------------------------------------
 + background {
-    id = __background__
+    id = "__background__"
     type = image
     left = 0
     top = 0
@@ -21,17 +17,17 @@
 }
 
 # ------------------------------------------------------------
-# Boot menu title
+# Menu title (shown at top-left)
 # ------------------------------------------------------------
-+ boot_menu_title {
-    type = text
-    id = __boot_menu_title__
-    left = 10%
-    top = 16%
++ title {
     font = "DejaVuSans-Bold-32.pf2"
     color = "#FFD700"
-    text = "Kingdom Hearts"
+    left = 10%
+    top = 6%
+    width = 80%
+    height = 8%
     align = left
+    text = "Kingdom Hearts"
 }
 
 # ------------------------------------------------------------
@@ -39,9 +35,9 @@
 # ------------------------------------------------------------
 * terminal_box {
     left = 8%
-    top = 30%
+    top = 20%
     width = 84%
-    height = 58%
+    height = 70%
     color = "#B9C5D5"
     bg_color = "#1A1C25CC"
     border_color = "#FFD700"
@@ -52,17 +48,10 @@
 # ------------------------------------------------------------
 # Boot menu entries
 # ------------------------------------------------------------
-+ boot_menu {
-    left = 10%
-    top = 34%
-    width = 26%
-    height = 50%
-    item_spacing = 5
-    item_height = 44
-    item_color = "#B9C5D5"
-    selected_item_color = "#1A1C25"
-    selected_item_pixmap_style = "progressbar"
-    selected_item_pixmap_file = "progressbar.png"
-    scrollbar_width = 0
+* entry {
     font = "DejaVuSans-24.pf2"
+    color = "#B9C5D5"
+    selected_color = "#1A1C25CC"
+    selected_outline_color = "#FFD700"
+    selected_outline_width = 2
 }
